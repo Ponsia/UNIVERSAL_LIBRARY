@@ -1,0 +1,54 @@
+{
+  "structural_checks": "passed",
+  "chunks": 128,
+  "chapter_counts": {
+    "Introduction to Biology": 7,
+    "Scientific processes in Biology": 19,
+    "Cell structure and organization": 23,
+    "Classification of living things": 10,
+    "Viruses and major groups of living things": 45,
+    "Nutrition in plants": 24
+  },
+  "words_including_overlap": 16086,
+  "evidence_presence_probes": [
+    {
+      "probe": "Biology definition",
+      "evidence_chunk_ids": [
+        "biology_f1_0001"
+      ]
+    },
+    {
+      "probe": "Branches table",
+      "evidence_chunk_ids": [
+        "biology_f1_0003"
+      ]
+    },
+    {
+      "probe": "Mitochondria",
+      "evidence_chunk_ids": [
+        "biology_f1_0035"
+      ]
+    },
+    {
+      "probe": "Classification",
+      "evidence_chunk_ids": [
+        "biology_f1_0050"
+      ]
+    },
+    {
+      "probe": "Photosynthesis",
+      "evidence_chunk_ids": [
+        "biology_f1_0108"
+      ]
+    },
+    {
+      "probe": "Xylem and phloem",
+      "evidence_chunk_ids": [
+        "biology_f1_0110"
+      ]
+    }
+  ],
+  "vector_search_tested": false,
+  "gemma_generation_tested": false,
+  "fully_manually_verified": false
+}

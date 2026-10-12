@@ -1,0 +1,39 @@
+{
+  "source_sha256": "3179185ef8840725ff0e02fda729b6f65aa946361caae02be69f5f8b0dc3bf4c",
+  "source_words": 32204,
+  "pages_ocr": 141,
+  "pdf_pages_range": [
+    7,
+    147
+  ],
+  "chunks": 128,
+  "unique_accepted_blocks": 551,
+  "review_blocks": 1884,
+  "chunk_words_min": 12,
+  "chunk_words_median": 132.5,
+  "chunk_words_max": 225,
+  "review_reasons": {
+    "short_label_or_unrecognised_heading": 759,
+    "low_ocr_confidence": 541,
+    "introductory_learning_objectives": 9,
+    "task_caption_or_table_requires_layout_review": 163,
+    "suspicious_ocr_symbols": 37,
+    "observed_layout_or_ocr_corruption": 6,
+    "revision_page_contains_questions_and_true_false_distractors": 15,
+    "question_not_answer_evidence": 49,
+    "question_or_instruction_not_answer_evidence": 42,
+    "duplicate": 8,
+    "exercise_or_question_section": 61,
+    "incomplete_sentence_requires_source_review": 325,
+    "fragment_or_label_requires_source_review": 210
+  },
+  "note": "Word counts are not tokenizer counts. OCR confidence cannot guarantee correct reading order, facts, or table alignment. Excluded passages remain in review file.",
+  "source_pdf_sha256": "6533387298439f9b0fc8b5ea13c549fc7bf7a23c1bc52c8eb51efc2ce1e33be1",
+  "coverage": "Filtered subset from six chapters; excluded blocks retained for review. Not a complete verified transcription.",
+  "corrections": [
+    "Page 9 branches table transcribed after visual inspection",
+    "Page 9 continuation reattached to page 8",
+    "Observed OCR repairs: 1s -> is; studics -> studies; cxamples -> examples; Ithelps -> It helps; trealing -> treating; fromthe -> from the",
+    "Quinine sentence repaired using malaria was present in raw page 10 OCR and original text"
+  ]
+}

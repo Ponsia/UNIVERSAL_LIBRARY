@@ -1,0 +1,60 @@
+{
+  "source_file": "/home/egovridc26/Desktop/EGA PTRACTICAL TRAINING - 0046/INDIVIDUAL HACKERTHON/UNILIBRARY/pdf_to_txt/chemistry_form_one.txt",
+  "source_sha256": "947df1e5332b2c32a395a7263d5fe92fa90af9d504b120847d1657b1e52502d5",
+  "source_pdf_sha256": "29e6447ec810d8f30db34995064fbbf1d7418a1c44b2af1e508a4175a0ee79fd",
+  "source_words": 31817,
+  "ocr_pdf_pages": [
+    8,
+    133
+  ],
+  "ocr_page_count": 126,
+  "revision_pdf_pages": [
+    19,
+    20,
+    62,
+    63,
+    64,
+    65,
+    81,
+    82,
+    101,
+    130,
+    131,
+    132,
+    133
+  ],
+  "chunks": 109,
+  "accepted_blocks": 407,
+  "review_records": 803,
+  "chunk_words_min": 8,
+  "chunk_words_median": 159,
+  "chunk_words_max": 225,
+  "review_reason_counts": {
+    "short_label_or_noise": 232,
+    "learning_objectives": 5,
+    "low_ocr_confidence": 270,
+    "question_not_answer_evidence": 123,
+    "learning_task_not_answer_evidence": 2,
+    "suspicious_ocr_symbols": 61,
+    "formula_or_unit_requires_visual_verification": 10,
+    "caption_or_table_requires_layout_review": 102,
+    "revision_page_questions_and_distractors": 13,
+    "duplicate": 4,
+    "source_pdf_page_is_loading_placeholder_no_lesson_text": 1,
+    "raw_ocr_replaced_by_visually_verified_tables": 2,
+    "incomplete_sentence_or_table_row": 112,
+    "fragment_or_label": 69
+  },
+  "coverage": "Filtered subset; not a complete verified transcription. Original and all re-OCR pages remain available.",
+  "source_loading_placeholder_pdf_pages": [
+    97
+  ],
+  "visually_verified_table_pdf_pages": [
+    104,
+    105
+  ],
+  "tokenizer_counts_measured": false,
+  "embeddings_generated": false,
+  "vector_retrieval_tested": false,
+  "gemma_tested": false
+}

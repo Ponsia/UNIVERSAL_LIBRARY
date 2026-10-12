@@ -1,0 +1,86 @@
+{
+  "structural_checks": "passed",
+  "lexical_smoke_probes": "passed",
+  "chunks": 109,
+  "chapter_counts": {
+    "Introduction to Chemistry": 10,
+    "Laboratory techniques and safety": 35,
+    "Fire, firefighting and flames": 15,
+    "Matter": 17,
+    "Elements, compounds and mixtures": 32
+  },
+  "words_including_overlap": 15100,
+  "probes": [
+    {
+      "probe": "Chemistry definition",
+      "matching_evidence_ids": [
+        "chemistry_f1_0001",
+        "chemistry_f1_0010"
+      ],
+      "lexical_top5_ids": [
+        "chemistry_f1_0001",
+        "chemistry_f1_0010"
+      ]
+    },
+    {
+      "probe": "Fire triangle",
+      "matching_evidence_ids": [
+        "chemistry_f1_0046"
+      ],
+      "lexical_top5_ids": [
+        "chemistry_f1_0047",
+        "chemistry_f1_0046"
+      ]
+    },
+    {
+      "probe": "Cobalt symbol",
+      "matching_evidence_ids": [
+        "chemistry_f1_0081"
+      ],
+      "lexical_top5_ids": [
+        "chemistry_f1_0081"
+      ]
+    },
+    {
+      "probe": "Solution definition",
+      "matching_evidence_ids": [
+        "chemistry_f1_0091",
+        "chemistry_f1_0109"
+      ],
+      "lexical_top5_ids": [
+        "chemistry_f1_0091",
+        "chemistry_f1_0092",
+        "chemistry_f1_0094",
+        "chemistry_f1_0109",
+        "chemistry_f1_0097"
+      ]
+    },
+    {
+      "probe": "Distillation",
+      "matching_evidence_ids": [
+        "chemistry_f1_0098"
+      ],
+      "lexical_top5_ids": [
+        "chemistry_f1_0098",
+        "chemistry_f1_0069",
+        "chemistry_f1_0102",
+        "chemistry_f1_0096",
+        "chemistry_f1_0108"
+      ]
+    },
+    {
+      "probe": "Rusting",
+      "matching_evidence_ids": [
+        "chemistry_f1_0076"
+      ],
+      "lexical_top5_ids": [
+        "chemistry_f1_0076"
+      ]
+    }
+  ],
+  "vector_search_tested": false,
+  "kiswahili_retrieval_tested": false,
+  "gemma_generation_tested": false,
+  "latency_measured": false,
+  "fully_manually_verified": false
+}

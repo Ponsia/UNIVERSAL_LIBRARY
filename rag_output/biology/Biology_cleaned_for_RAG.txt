@@ -1,0 +1,1662 @@
+[PDF page(s): 7 | Chapter: Introduction to Biology | Topic: Basic concepts and terminologies in Biology]
+The term 'Biology' originates from two Greek words, bios that means 'life' and logos that means 'study'. Therefore, Biology is a branch of science that deals with the study of life. A person who studies Biology is called a Biologist.
+
+[PDF page(s): 7 | Chapter: Introduction to Biology | Topic: Basic concepts and terminologies in Biology]
+Living things are also called organisms. They include, plants, animals, fungi, and micro-organisms. Micro-organisms are very small living things, such as bacteria and some protozoans, which cannot be seen with the naked eyes. The size of organisms varies and ranges from very small such as bacteria to very large such as trees, birds, hippopotamus, and whales, as shown in Figure 1.1.
+
+[PDF page(s): 8 | Chapter: Introduction to Biology | Topic: Basic concepts and terminologies in Biology]
+Life is a state that distinguishes living things from non-living things. It is characterised by nutrition, respiration, excretion, growth and development, sensitivity or irritability, movement, and reproduction. The basic unit of life is the cell. All living things are made up of cells. Cells are so small that they cannot be seen with naked eyes. They can only be seen by using the microscope. The microscope is an instrument that is used in scientific studies to enlarge very small things so that they can be easily seen and examined. The process of enlarging very small things is called magnification.
+
+[PDF page(s): 8,9 | Chapter: Introduction to Biology | Topic: Basic concepts and terminologies in Biology]
+The branches of Biology include Botany, Zoology and Microbiology. Botany is the study of plants, zoology is the study of animals, and microbiology is the study of microbes. A person who is specialised in the study of plants is called a Botanist, a person who deals with the study of animals is called a Zoologist, whereas a person who deals with the study of microbes is called a Microbiologist. However, there are many sub-branches of Biology that deal with different aspects of living things. Examples are given in Table 1.1.
+
+[PDF page(s): 9 | Chapter: Introduction to Biology | Topic: Branches of Biology]
+Other branches of Biology:
+Anatomy: Body structures of organisms.
+Cytology: Structure and functions of cells.
+Ecology: Relationship between organisms and their environment.
+Entomology: Insects.
+Genetics: Heredity and variation.
+Immunology: Immune systems.
+Mycology: Fungi.
+Parasitology: Parasites.
+Taxonomy: Classification of organisms.
+Physiology: Physical and chemical processes taking place within living organisms.
+
+[PDF page(s): 10 | Chapter: Introduction to Biology | Topic: Importance of studying Biology]
+Helps to identify and group living things which makes it easier to learn more about them.
+
+[PDF page(s): 10 | Chapter: Introduction to Biology | Topic: Importance of studying Biology]
+Helps to appreciate nature and many fascinating things about different organisms and how their functions are learnt in Biology. Helps to understand our bodies.
+
+[PDF page(s): 10 | Chapter: Introduction to Biology | Topic: Importance of studying Biology]
+Helps to improve the standard of living in human, and care for animals and plants. Skills from Biology can help to determine the causes, symptoms, and methods of transmission of infections and diseases.
+
+[PDF page(s): 10 | Chapter: Introduction to Biology | Topic: Importance of studying Biology]
+Helps to answer important questions, such as when and where life originate, how plants move, and how animals survive without plants.
+
+[PDF page(s): 10 | Chapter: Introduction to Biology | Topic: Importance of studying Biology]
+(i) Enables scientists to come up with ways to prevent, treat, and cure diseases. This has greatly improved the quality of people's lives. For instance, the first cure discovered for quinine. It was extracted from the bark of the Cinchona tree (or quinine tree). Quinine has helped to reduce the number of deaths from malaria, especially in Africa.
+
+[PDF page(s): 11 | Chapter: Introduction to Biology | Topic: Importance of studying Biology]
+(j) Lays foundation for specialising in careers, such as teaching, nursing, medicine, horticulture, and environmental science. Encourages international cooperation through biological research.
+
+[PDF page(s): 11 | Chapter: Introduction to Biology | Topic: Relationship between Biology and other scientific fields]
+Biology is not an isolated field of study. Biology is related to many other fields of study, such as Agriculture, Medicine, Pharmacy, Veterinary Medicine, and Nutrition. Biological researches have a direct impact on the development of these fields.
+
+[PDF page(s): 11,12 | Chapter: Introduction to Biology | Topic: Activity: Investigating the relationship between Biology and other fields of science]
+Agriculture is the field of study which deals with growing crops and rearing animals for food, money, or both. Biological research findings on crops and livestock have led to improved agricultural production. Scientists have developed breeds of crops and animals that mature quickly and produce high yields. For instance, indigenous breeds of chicken start laying eggs when they are about eight months old while the improved breeds known as /avers can start laying eggs as early as five months. An example of an improved layer breed is shown in Figure 1.3.
+
+[PDF page(s): 12 | Chapter: Introduction to Biology | Topic: Activity: Investigating the relationship between Biology and other fields of science]
+Researchers have also developed breeds of crops and animals that perform well under specific climatic conditions. For example, researchers have been able to develop varieties of maize seeds that are resistant to diseases and that grow well even in harsh conditions.
+
+[PDF page(s): 12 | Chapter: Introduction to Biology | Topic: Activity: Investigating the relationship between Biology and other fields of science]
+The study of Anatomy helps medical doctors to learn the structure of the body and how it functions. This makes it possible for them to know what is wrong in the body and how it can be treated. In Immunology, scientists study the body's response to disease-causing agents. This knowledge is important in the formulation of vaccines and drugs that are able to prevent and treat diseases, respectively. Some of these drugs and vaccines are made from animals, plants, fungi, or micro-organisms.
+
+[PDF page(s): 12 | Chapter: Introduction to Biology | Topic: Activity: Investigating the relationship between Biology and other fields of science]
+Biologists have also developed breeds of livestock and crops that yield products of higher nutritional value. Examples include varieties of sweet potatoes that are rich in vitamin A and a breed of Jersey cattle, as shown in Figure 1.4, which produce milk with low butterfat content. Such breeds are known as improved breeds.
+
+[PDF page(s): 13 | Chapter: Introduction to Biology | Topic: Activity: Investigating the relationship between Biology and other fields of science]
+Forestry deals with creating, managing, and conserving forests. Forests are sources of fuel (firewood and charcoal), building materials, and medicinal plants. They also serve as water catchments. Biologists have developed varieties of trees that grow well in dry areas.
+
+[PDF page(s): 13 | Chapter: Introduction to Biology | Topic: Activity: Investigating the relationship between Biology and other fields of science]
+I. Biology is the study of living things. People who study Biology are called Biologists.
+
+[PDF page(s): 13 | Chapter: Introduction to Biology | Topic: Activity: Investigating the relationship between Biology and other fields of science]
+The main branches of Biology include Botany, Zoology, and Microbiology. 3. The cell is the basic functional unit of life.
+
+[PDF page(s): 17 | Chapter: Scientific processes in Biology | Topic: Common Biology laboratory apparatus, equipment and other resources]
+Biology laboratory is a special room or building designed for carrying out biological experiments. A laboratory should have good qualities and facilities which include large door which open outwards, adequate space for carrying out experiments, proper lighting, good ventilation, a source of water, a source of heating, and adequate space for storing apparati, chemicals, models, and specimens.
+
+[PDF page(s): 17 | Chapter: Scientific processes in Biology | Topic: Common Biology laboratory apparatus, equipment and other resources]
+A wide variety of apparati (singular is apparatus) and equipment are needed in order to conduct Biology practical.
+
+[PDF page(s): 17 | Chapter: Scientific processes in Biology | Topic: Common Biology laboratory apparatus, equipment and other resources]
+This is mainly used to magnify specimens that are under observation. A hand lens enables a scientist to magnify small organisms or their parts in order to observe them clearly. An example of a hand lens is shown in Figure 2.1.
+
+[PDF page(s): 17 | Chapter: Scientific processes in Biology | Topic: Common Biology laboratory apparatus, equipment and other resources]
+A sweep net is used for catching small flying organisms, such as butterflies, grasshoppers and other small animals. An example of a sweep net is shown in Figure 2.2.
+
+[PDF page(s): 18 | Chapter: Scientific processes in Biology | Topic: Common Biology laboratory apparatus, equipment and other resources]
+A quadrat is a wooden square or A dissecting kit contains tools for dissection of specimens. An example of a dissecting kit is shown in Figure 2.7.
+
+[PDF page(s): 19 | Chapter: Scientific processes in Biology | Topic: Common Biology laboratory apparatus, equipment and other resources]
+(b) A pair of scissors for cutting specimens or objects.
+
+[PDF page(s): 19 | Chapter: Scientific processes in Biology | Topic: Common Biology laboratory apparatus, equipment and other resources]
+A thermometer is an instrument used to measure temperature. An example of (c) Scalpels for cutting.
+
+[PDF page(s): 19 | Chapter: Scientific processes in Biology | Topic: Common Biology laboratory apparatus, equipment and other resources]
+(d) A needle for loosening internal a thermometer is shown in Figure 2.8.
+
+[PDF page(s): 19 | Chapter: Scientific processes in Biology | Topic: Common Biology laboratory apparatus, equipment and other resources]
+(f) Hand lens for magnifying small specimens or their parts.
+
+[PDF page(s): 19 | Chapter: Scientific processes in Biology | Topic: Common Biology laboratory apparatus, equipment and other resources]
+A mounting needle is used to lift small delicate specimens. An example of a mounting needle is shown in Figure 2.10.
+
+[PDF page(s): 20 | Chapter: Scientific processes in Biology | Topic: Common Biology laboratory apparatus, equipment and other resources]
+The microscope slide is a small flat piece of glass that is used to hold specimen under observation. A specimen to be observed under a microscope is placed on a slide with a drop of a liquid and covered with a coverslip. An example of a microscope slide and coverslip is shown in Figure 2.11.
+
+[PDF page(s): 20 | Chapter: Scientific processes in Biology | Topic: Common Biology laboratory apparatus, equipment and other resources]
+A microscope is an instrument that is used during scientific studies to magnify very small specimens so that their details can be seen. The smallest structures of cells, tissues, and organs of organisms can be studied well if magnified by the microscope. There are two types of microscopes: Electron microscope and Light microscope.
+
+[PDF page(s): 20 | Chapter: Scientific processes in Biology | Topic: The electron microscope]
+The electron microscope uses beams of electrons to magnify specimens. The maximum useful magnification of most electron microscopes is about a million times (1 000 000x). These microscopes are very expensive.
+
+[PDF page(s): 20 | Chapter: Scientific processes in Biology | Topic: The light microscope]
+The light microscope is the type of microscope that depends on light to illuminate and magnify tiny specimens. For this matter, it differs from the electron microscope by having lower magnification. The maximum useful magnification of most light microscopes is about one thousand times (1 000x). This type of microscope is commonly used in schools and health facilities. An example of the light microscope is shown in Figure 2.12.
+
+[PDF page(s): 21 | Chapter: Scientific processes in Biology | Topic: The light microscope]
+The parts of the light microscope are described in Table 2.1.
+
+[PDF page(s): 21 | Chapter: Scientific processes in Biology | Topic: The light microscope]
+Magnify the object under observation. Light microscope usually has three objective lenses: low power, medium power, and high power.
+
+[PDF page(s): 22 | Chapter: Scientific processes in Biology | Topic: The light microscope]
+Make sure that the low objective lens is in line with the eyepiece Place the slide with the specimen on the stage.
+
+[PDF page(s): 22 | Chapter: Scientific processes in Biology | Topic: The light microscope]
+Rises or lowers body tube in order to bring the image into sharp focus Supports the body tube, knobs, stage, diaphragm and mirror. It is one of the parts that is held when moving the microscope .
+
+[PDF page(s): 22 | Chapter: Scientific processes in Biology | Topic: The light microscope]
+Provides firm support for the microscope (e) While looking through _ the eyepiece, use your hand to adjust the mirror so that the light is directed to the specimen on the stage. Always keep both eyes open when looking through the eyepicce.
+
+[PDF page(s): 22 | Chapter: Scientific processes in Biology | Topic: The light microscope]
+Adjust the fine adjustment knob to bring the specimen into a sharp focus.
+
+[PDF page(s): 23 | Chapter: Scientific processes in Biology | Topic: The light microscope]
+Rotate the nosepiece to a higher power objective lens, if you want to observe more details of the specimen. Figure 2.13 shows a student using the light microscope.
+
+[PDF page(s): 23 | Chapter: Scientific processes in Biology | Topic: The light microscope]
+How to care for the light microscope Turn the adjustment knob slowly. Always start with the coarse adjustment knob.
+
+[PDF page(s): 23 | Chapter: Scientific processes in Biology | Topic: The light microscope]
+(a) Lift the microscope using both hands, one hand holding the arm and the other holding the base. When not in use, cover the microscope with clean cloth and store it in a dry, dust-free place. Clean dirty lenses using lens tissue or a soft cloth.
+
+[PDF page(s): 23 | Chapter: Scientific processes in Biology | Topic: The light microscope]
+(e) When the microscope is not in use for a long time, remove the lenses and put them in a desiccator.
+
+[PDF page(s): 23 | Chapter: Scientific processes in Biology | Topic: The light microscope]
+Do not touch the microscope with wet hands.
+
+[PDF page(s): 23 | Chapter: Scientific processes in Biology | Topic: The light microscope]
+(g) Do not touch the surface of the mirror or the lenses with your fingers.
+
+[PDF page(s): 23 | Chapter: Scientific processes in Biology | Topic: The light microscope]
+Move the objective lenses up when storing the microscope.
+
+[PDF page(s): 23 | Chapter: Scientific processes in Biology | Topic: Activity 2.1: Using the light microscope]
+Activity 2.1: Using the light microscope Materials: Light microscope, microscope slide and coverslip, razor blade, knife or scalpel, onion bulb, forceps, mounting needle or glass rod, iodine solution, and blotting paper Procedure 1. Use the knife to cut the onion bulb vertically or lengthwise into four pieces.
+
+[PDF page(s): 24 | Chapter: Scientific processes in Biology | Topic: Activity 2.1: Using the light microscope]
+Take precautions when using sharp objects, such as knife and razor blade.
+
+[PDF page(s): 24 | Chapter: Scientific processes in Biology | Topic: Activity 2.1: Using the light microscope]
+Gently cover the specimen with a coverslip making sure that no air bubbles are trapped inside, as shown in Figure 2.16.
+
+[PDF page(s): 24 | Chapter: Scientific processes in Biology | Topic: Activity 2.1: Using the light microscope]
+Remove the specimen from the microscope stage. Remove the specimen from the slide and put a new specimen. Put a drop of iodine on the specimen. Repeat the procedures. Iodine makes the specimen clear. Use blotting paper to eliminate any excess iodine.
+
+[PDF page(s): 25 | Chapter: Scientific processes in Biology | Topic: Activity 2.1: Using the light microscope]
+11. Observe the specimen again under low power and medium power objective lenses.
+
+[PDF page(s): 25 | Chapter: Scientific processes in Biology | Topic: Activity 2.1: Using the light microscope]
+Biological models are sculptures that represent a particular organ or system of an organism. They are usually made in three dimensions, hence representing the real part of an organism. Models are used during teaching and learning process to reinforce concepts.
+
+[PDF page(s): 25 | Chapter: Scientific processes in Biology | Topic: Activity 2.1: Using the light microscope]
+Preserved specimens are collected organisms or parts of organisms that are preserved for learning purposes. Organisms or parts of organisms that are usually preserved include plant leaves, roots, fruits as well as insects.
+
+[PDF page(s): 26 | Chapter: Scientific processes in Biology | Topic: Activity 2.1: Using the light microscope]
+A cage is an enclosure often made up of wire mesh or bars or wood, in which birds, mice, rabbits, or other small animals are kept, as shown in Figure 2.19.
+
+[PDF page(s): 26 | Chapter: Scientific processes in Biology | Topic: Activity 2.1: Using the light microscope]
+Aquarium is a special vessel that is used in the laboratory for keeping live aquatic organisms, such as fish, as shown in Figure 2.20. Aquaria can be of different shapes and sizes.
+
+[PDF page(s): 26 | Chapter: Scientific processes in Biology | Topic: Basic skills in scientific studies]
+There are basic skills that are essential in scientific studies. The skills are needed in studying Biology. They include observation, measurement, and experimentation.
+
+[PDF page(s): 26 | Chapter: Scientific processes in Biology | Topic: Basic skills in scientific studies]
+Observation is one of the methods of studying Biology. Through observation one can study living things in many ways. Observation is done by using sense organs. An example of using sense organs in making observations is shown in Figure 2.21.
+
+[PDF page(s): 27 | Chapter: Scientific processes in Biology | Topic: Basic skills in scientific studies]
+The observation process with the help of sense organs enables you to study living organisms.
+
+[PDF page(s): 27 | Chapter: Scientific processes in Biology | Topic: Basic skills in scientific studies]
+(a) It is round by seeing, (b) It contains a liguid by hearing the sound when shaken, (c) It has a rough husk by touching, (d) It has a good smell by smelling (after breaking the coconut), and (e) It has a sweet taste by tasting (after breaking the coconut).
+
+[PDF page(s): 27 | Chapter: Scientific processes in Biology | Topic: Activity 2.2: Making observations using sense organs]
+Materials: Colourful pictures, insects, preserved specimens, flowers, perfume, whistle, bell, stones, wooden objects, pieces of cloth, ice, hot water, and lukewarm water 1.
+
+[PDF page(s): 28 | Chapter: Scientific processes in Biology | Topic: Activity 2.2: Making observations using sense organs]
+1. Flower 2. Perfume 3. Whistle 4. Cloth The use of sense organs to make Observations has many advantages in everyday life. For example, when you see dark clouds. you know that it is likely to rain. When you hear the school bell ringing in the morning, you know it is time to begin the school routine. You like to wear a perfume because it smells nice. When you get near fire, you feel the heat and move away. When cooking you taste food to ensure it is delicious.
+
+[PDF page(s): 28 | Chapter: Scientific processes in Biology | Topic: Activity 2.2: Making observations using sense organs]
+However, one of the disadvantages of observations made using the senses is that they are often subjective. This means that they are based on a person's interests, Opinions, or situation rather than facts.
+
+[PDF page(s): 28 | Chapter: Scientific processes in Biology | Topic: Activity 2.2: Making observations using sense organs]
+Scientists use specific instruments and units of measurement in their investigations. The standard system of measurement used by scientists all over the world is called the /nternational System of Units (Sl units). This system ensures precision in the presentation of scientific results and the uniformity of data presentation internationally. It also enables scientists to confirm results from other parts of the world. Table 2.3 shows some common measurements in Biology and their units.
+
+[PDF page(s): 30 | Chapter: Scientific processes in Biology | Topic: Activity 2.3: Measuring the mass of objects]
+1. Put a weighing scale on a flat surface, such as a table.
+
+[PDF page(s): 30 | Chapter: Scientific processes in Biology | Topic: Activity 2.3: Measuring the mass of objects]
+2. Put half a kilogram weight on the platform.
+
+[PDF page(s): 30 | Chapter: Scientific processes in Biology | Topic: Activity 2.3: Measuring the mass of objects]
+3. Add a small amount of flour until the weighing scale balances.
+
+[PDF page(s): 30 | Chapter: Scientific processes in Biology | Topic: Activity 2.3: Measuring the mass of objects]
+Repeat procedures 2, 3, and 4 above using different weights to measure the different materials you have collected.
+
+[PDF page(s): 30 | Chapter: Scientific processes in Biology | Topic: Activity 2.3: Measuring the mass of objects]
+7. Prepare a short report of your results.
+
+[PDF page(s): 30 | Chapter: Scientific processes in Biology | Topic: Length]
+Length is a measurement of the distance or dimension from one point to another. For example, you can measure the height of a human being, and plant, as well as the length of a leaf and fish. Figure 2.24 shows examples of instruments for measuring length and Figure 2.25 shows how to use one of the length measuring instruments.
+
+[PDF page(s): 30 | Chapter: Scientific processes in Biology | Topic: Length]
+Length can be measured using a ruler or tape measure. Common units of expressing length are millimetres (mm), centimetres (cm), metres (m), and kilometres (km). These units of length can be converted into other units, as shown in Table 2.4.
+
+[PDF page(s): 31 | Chapter: Scientific processes in Biology | Topic: Activity 2.4: Measuring length of objects]
+Activity 2.4: Measuring length of objects Materials: Ruler, paper.
+
+[PDF page(s): 31 | Chapter: Scientific processes in Biology | Topic: Activity 2.4: Measuring length of objects]
+3. Join the two points by a straight line.
+
+[PDF page(s): 31 | Chapter: Scientific processes in Biology | Topic: Activity 2.4: Measuring length of objects]
+4. Putthe zero mark of the ruler at first mark and read the length at the second point.
+
+[PDF page(s): 31 | Chapter: Scientific processes in Biology | Topic: Activity 2.4: Measuring length of objects]
+6. Compare your findings with those of your classmates.
+
+[PDF page(s): 31 | Chapter: Scientific processes in Biology | Topic: Activity 2.4: Measuring length of objects]
+Temperature is the degree of hotness or coldness of a substance. It is a physical property that explains the common notions of hot and cold. The common units for measuring temperature are kelvin (K), degrees Celsius (°C), and degrees Fahrenheit (°F).
+
+[PDF page(s): 32 | Chapter: Scientific processes in Biology | Topic: Activity 2.5: Measuring the temperature of different things]
+Carefully take a thermometer from its case and hold it at the top. Do not touch the bulb.
+
+[PDF page(s): 32 | Chapter: Scientific processes in Biology | Topic: Activity 2.5: Measuring the temperature of different things]
+Shake it for a few seconds, then read the number that corresponds to the mark.
+
+[PDF page(s): 32 | Chapter: Scientific processes in Biology | Topic: Activity 2.5: Measuring the temperature of different things]
+Put the thermometer bulb under your armpit and wait for two minutes.
+
+[PDF page(s): 32 | Chapter: Scientific processes in Biology | Topic: Activity 2.5: Measuring the temperature of different things]
+Read the number that corresponds to the mark.
+
+[PDF page(s): 33 | Chapter: Scientific processes in Biology | Topic: Activity 2.5: Measuring the temperature of different things]
+Science is the knowledge and systematic study of the structure and behaviour of the natural and physical world. It is based on facts that can be proven through observation and experiments. In order to study situations and come up with solutions to the problems, scientists follow a set of steps called the scientific method. The scientific method is a way of studying things by testing facts systematically. It follows seven steps which are: identifying the problem, formulating a hypothesis, experimentation, observation and recording data, data analysis and interpretation, conclusion, and reporting results.
+
+[PDF page(s): 33 | Chapter: Scientific processes in Biology | Topic: Activity 2.5: Measuring the temperature of different things]
+An experiment is a scientific procedure carried out under controlled conditions to determine whether a hypothesis is correct or not. In an experiment, a scientist uses variables to test a hypothesis. Variables are conditions or factors that can change or can be changed. Examples of variables include temperature, speed, and light. They can be classificd as dependent, independent, and controlled variables.
+
+[PDF page(s): 33 | Chapter: Scientific processes in Biology | Topic: Activity 2.5: Measuring the temperature of different things]
+Dependent variable: This is the condition or factor that is measured or tested to obtain the results of the experiment.
+
+[PDF page(s): 33 | Chapter: Scientific processes in Biology | Topic: Activity 2.5: Measuring the temperature of different things]
+Independent or manipulated variable: This is a condition or a factor that the researcher changes systematically to obtain different results.
+
+[PDF page(s): 33,34 | Chapter: Scientific processes in Biology | Topic: Activity 2.5: Measuring the temperature of different things]
+Controlled variable: This is the condition or factor that is kept constant during the experiment. For example, prefer moist areas.
+
+[PDF page(s): 34 | Chapter: Scientific processes in Biology | Topic: Activity 2.5: Measuring the temperature of different things]
+(a) The direction in which the earthworms move is the factor under investigation. This is the dependent variable.
+
+[PDF page(s): 34 | Chapter: Scientific processes in Biology | Topic: Activity 2.5: Measuring the temperature of different things]
+The moisture content of one of the paper towels is varied. This is the independent variable.
+
+[PDF page(s): 34 | Chapter: Scientific processes in Biology | Topic: Activity 2.5: Measuring the temperature of different things]
+The amount of light allowed is kept constant. This is the controlled variable.
+
+[PDF page(s): 34 | Chapter: Scientific processes in Biology | Topic: Activity 2.5: Measuring the temperature of different things]
+Set-up B: is the control experiment. In this set-up, the paper towels are not moistened. The independent variable is not changed. The control experiment proves that the independent variable determines the direction of movement of earthworms.
+
+[PDF page(s): 34 | Chapter: Scientific processes in Biology | Topic: Activity 2.5: Measuring the temperature of different things]
+The scientist observes what happens from the time the experiment is set up to the time it ends. It is important to note all the changes made in the independent variable and the resulting changes in the dependent variable. For example, the results of the experiment in Figure 2.27 can be recorded in a table, as shown in Table 2.5 below. The results in the first row are given as an example.
+
+[PDF page(s): 35 | Chapter: Scientific processes in Biology | Topic: Activity 2.5: Measuring the temperature of different things]
+At the end of the experiment, the scientist analyses the observations and data recorded. The scientist may also look for patterns or trends in the data. For example, in this experiment it may happen that: 'As more drops of water were added to one paper towel, more earthworms moved to that side of the tray.' A conclusion is a_ statement that summarizes what a scientist has learnt from an experiment. When scientists reach a conclusion, they state whether the data or information collected supports their hypothesis or not. Conclusions often lead scientists to pose new questions and plan new experiments to answer them.
+
+[PDF page(s): 35 | Chapter: Scientific processes in Biology | Topic: Activity 2.5: Measuring the temperature of different things]
+It is important to remember that results of an experiment may prove or disprove the hypothesis. From this experiment, it can be concluded that: 'Earthworms prefer moist conditions to dry conditions.' This confirms the hypothesis. Based on the conclusion, the hypothesis can be accepted, modified, or rejected. Another hypothesis is then formulated which suggests why the first hypothesis was correct or wrong. Hence, scientific research is a never-ending process, as shown in Figure 2.28.
+
+[PDF page(s): 35,36 | Chapter: Scientific processes in Biology | Topic: Conclusion]
+Scientists communicate their results to others in a final report. They can present the results to the scientific community by publishing their final report in a journal or at seminars, conferences, workshops, and meetings.
+
+[PDF page(s): 36 | Chapter: Scientific processes in Biology | Topic: Hypothesis]
+(c) Give ideas for further investigations to find answers to the problem.
+
+[PDF page(s): 36 | Chapter: Scientific processes in Biology | Topic: Activity 2.6: Observing different types of plant leaves]
+2. Examine each leaf closely as follows: (a) Look at the size, shape, and colour. (b) Feel the texture of the leaf. 3. Using a hand lens, observe the patterns on each leaf. . Note down what observed.
+
+[PDF page(s): 36 | Chapter: Scientific processes in Biology | Topic: Activity 2.7: Collecting and observing the characteristics of animals]
+1. Use sweep nets to catch insects, such as grasshoppers, termites, cockroaches, and butterflies around school compound, as shown in Figure 2.29. Sweep nets can also be used to catch small animals, such as millipedes and frogs.
+
+[PDF page(s): 37 | Chapter: Scientific processes in Biology | Topic: Activity 2.7: Collecting and observing the characteristics of animals]
+5. Release or preserve the organisms you have used in your observation features of the organisms you Biological apparati are instruments and equipment needed for effective studying of Biology.
+
+[PDF page(s): 37 | Chapter: Scientific processes in Biology | Topic: Activity 2.7: Collecting and observing the characteristics of animals]
+Some of the apparati used in studying Biology are hand lens, sweep nets, scoop nets, pooters, specimen bottles, quadrats, dissecting kits, mounting needles, slides, coverslips, and microscopes.
+
+[PDF page(s): 37 | Chapter: Scientific processes in Biology | Topic: Activity 2.7: Collecting and observing the characteristics of animals]
+A microscope is an instrument that is used during scientific studies to magnify very small specimens so that their details can be seen clearly.
+
+[PDF page(s): 37 | Chapter: Scientific processes in Biology | Topic: Activity 2.7: Collecting and observing the characteristics of animals]
+There are two types of microscopes: light microscope and electron microscope.
+
+[PDF page(s): 38 | Chapter: Scientific processes in Biology | Topic: Activity 2.7: Collecting and observing the characteristics of animals]
+The total magnification in a microscope is calculated using the following formula.
+
+[PDF page(s): 38 | Chapter: Scientific processes in Biology | Topic: Activity 2.7: Collecting and observing the characteristics of animals]
+Observation, measuring, and experimentation are skills needed when studying Biology.
+
+[PDF page(s): 38 | Chapter: Scientific processes in Biology | Topic: Activity 2.7: Collecting and observing the characteristics of animals]
+(a) Eyes for seeing. (b) Nose for smelling. (c) Ears for hearing. (d) Tongue for tasting. (e) Skin for feeling.
+
+[PDF page(s): 38 | Chapter: Scientific processes in Biology | Topic: Activity 2.7: Collecting and observing the characteristics of animals]
+(d) Observation and recording data. (e) Data interpretation.
+
+[PDF page(s): 42 | Chapter: Cell structure and organization | Topic: Cell structure and organization]
+All living things are made up of cells. The cell is the-basic functional unit of life.
+
+[PDF page(s): 42 | Chapter: Cell structure and organization | Topic: The cell]
+English revolutionized our microscope and examining cork from a tree's bark. He discovered that the cork consisted of numerous box-like structures that are closely packed together, resembling a honeycomb. These structures were named 'cells'.
+
+[PDF page(s): 43 | Chapter: Cell structure and organization | Topic: The cell]
+(b) Cells are the basic unit of structure and functions of living things.
+
+[PDF page(s): 43 | Chapter: Cell structure and organization | Topic: The cell]
+(c) All cells are produced from other cells.
+
+[PDF page(s): 43 | Chapter: Cell structure and organization | Topic: The cell]
+(e) All cells are basically similar in chemical composition.
+
+[PDF page(s): 43 | Chapter: Cell structure and organization | Topic: The cell]
+The cell theory applies to all living things, no matter how big or small they are. Since cells are common to all living things, they can provide information about life. Scientists can use the concept of cell theory to learn about nutrition, growth, reproduction, respiration, movement, sensitivity, and excretion.
+
+[PDF page(s): 43 | Chapter: Cell structure and organization | Topic: Activity 3.1: Exploring prokaryotic and eukaryotic cells under the microscope]
+1. Prepare the microscope with the appropriate magnification power for the slides.
+
+[PDF page(s): 43 | Chapter: Cell structure and organization | Topic: Activity 3.1: Exploring prokaryotic and eukaryotic cells under the microscope]
+Mount the slide of prokaryotic cell on the light microscope's stage. Hold it in place with the stage clips.
+
+[PDF page(s): 43 | Chapter: Cell structure and organization | Topic: Activity 3.1: Exploring prokaryotic and eukaryotic cells under the microscope]
+4. Replace the slide with a prepared slide of eukaryotic cell and focus on different areas of the slide. Observe the structure of the eukaryotic cell.
+
+[PDF page(s): 44 | Chapter: Cell structure and organization | Topic: Activity 3.1: Exploring prokaryotic and eukaryotic cells under the microscope]
+The prokaryotic cell is a type of cell in which the nuclear materials are not bound with a membrane. The cell is found in organisms called prokaryotes. Prokaryotes are single-celled organisms. such as bacteria and blue-green bacteria.
+
+[PDF page(s): 44 | Chapter: Cell structure and organization | Topic: Activity 3.1: Exploring prokaryotic and eukaryotic cells under the microscope]
+(a) They do not have true nucleus, as they lack membrane bound nucleus.
+
+[PDF page(s): 44 | Chapter: Cell structure and organization | Topic: Activity 3.1: Exploring prokaryotic and eukaryotic cells under the microscope]
+(b) They do not have membrane-bound organelles, such as mitochondria.
+
+[PDF page(s): 44 | Chapter: Cell structure and organization | Topic: Activity 3.1: Exploring prokaryotic and eukaryotic cells under the microscope]
+(c) They reproduce by binary fission and sometimes by conjugation. (d) Mostly they are smaller in size than eukaryotic cells.
+
+[PDF page(s): 44 | Chapter: Cell structure and organization | Topic: Activity 3.1: Exploring prokaryotic and eukaryotic cells under the microscope]
+The following are the characteristics of eukaryotic cells.
+
+[PDF page(s): 44 | Chapter: Cell structure and organization | Topic: Activity 3.1: Exploring prokaryotic and eukaryotic cells under the microscope]
+(c) They contain specialised membrane-bound organelles, such as mitochondria and chloroplasts.
+
+[PDF page(s): 44 | Chapter: Cell structure and organization | Topic: Animal and plant cells]
+Both animals and plants are made up of eukaryotic cells. However, these cells differ in their structure and functions.
+
+[PDF page(s): 45 | Chapter: Cell structure and organization | Topic: Animal and plant cells]
+An animal cell is a type of eukaryotic cell that lacks ceil wall and has true membrane bound nucleus. Figure 3.2 shows the structure of an animal cell, as seen under the light microscope.
+
+[PDF page(s): 45 | Chapter: Cell structure and organization | Topic: Activity 3.2: Observing animal cells]
+Materials: Prepared slides of a cheek cell, a microscope, ICT tools, notebook, and a pen or pencil Procedure 1. Prepare the microscope with the appropriate magnification powcr. 2. Mount the prepared slide on the stage of the light microscope. 3. Use the microscope to focus on different areas of the slide.
+
+[PDF page(s): 45 | Chapter: Cell structure and organization | Topic: Activity 3.2: Observing animal cells]
+4. Use a low-power objective lens to observe the prepared slide.
+
+[PDF page(s): 45 | Chapter: Cell structure and organization | Topic: Activity 3.2: Observing animal cells]
+6. Search from the library, internet sources and other biology books the structures of human cheek cells.
+
+[PDF page(s): 45 | Chapter: Cell structure and organization | Topic: Activity 3.2: Observing animal cells]
+7. Compare what you have observed and what you have searched from different sources with Figure 3.3.
+
+[PDF page(s): 45 | Chapter: Cell structure and organization | Topic: Activity 3.2: Observing animal cells]
+Search information from biology books and reliable internet sources on the parts of an animal cell and their functions.
+
+[PDF page(s): 45,46 | Chapter: Cell structure and organization | Topic: Cell membrane]
+The cell membrane is a thin layer that encloses the whole cell. The cell membrane is made up of two layers of lipids and protein molecules. This membrane is flexible and semipermeable. Semi-permeable means that it allows certain substances to pass in or out of the cell. Flexibility of animal cell membrane and the lack of cell wall gives it an irregular shape.
+
+[PDF page(s): 46 | Chapter: Cell structure and organization | Topic: Cytroplasm]
+This is a jelly-like substance made up of water and dissolved chemical substances. The cytoplasm is the site for many chemical reactions in the cell. Cell organelles, such as the vacuoles, nucleus, and mitochondria are suspended in the cytoplasm. Nucleus This is a spherical organelle suspended in the cytoplasm. The nucleus consists of nucleolus and a fluid called nucleoplasm. It is surrounded by a membrane called the nuclear membrane. The following are functions of the nucleus.
+
+[PDF page(s): 46 | Chapter: Cell structure and organization | Topic: Cytroplasm]
+(a) It determines the chemical processes that take place in the cell.
+
+[PDF page(s): 46 | Chapter: Cell structure and organization | Topic: Cell vacuoles]
+Cell vacuoles are fluid-filled spaces bound by a membrane. Animal cells have small and temporary vacuoles, mainly used to secrete and excrete wastes from the cell.
+
+[PDF page(s): 46 | Chapter: Cell structure and organization | Topic: Mitochondria]
+Mitochondria(singularis mitochondrion) are oval-shaped organelles that have two membranes, as shown in Figure 3.4. The outer membrane is smooth. The inner membrane has folds called cristae (singular is crista). The role of mitochondria is to produce energy for the cell. That is why they are sometimes referred to as 'power houses of cells'.
+
+[PDF page(s): 46,47 | Chapter: Cell structure and organization | Topic: Mitochondria]
+Outer membrane Cristae Inner membrane Matrix Note down what you have observed.
+
+[PDF page(s): 47 | Chapter: Cell structure and organization | Topic: Vacuole]
+Similar to the animal cell, the plant cell has a cell membrane, cytoplasm, nucleus, and mitochondria. These organelles function in the same way as those of an animal cell. However, plant cells have additional structures which serve specific roles in plants.
+
+[PDF page(s): 47 | Chapter: Cell structure and organization | Topic: Vacuole]
+The cell wall This is an outer cover made of cellulose that surrounds the cell membrane. The cell wall is fully permeable. It allows the passage of water and minerals. The cell wall protects and supports the cell. The cell wall gives the plant cell a definite shape.
+
+[PDF page(s): 47 | Chapter: Cell structure and organization | Topic: Chloroplasts]
+Chloroplasts are oval organelles that contain green pigments in_ plants. This pigment is called chlorophyll. It is important in photosynthesis, the process by which green plants make their own food. Chlorophyll absorbs light energy needed for photosynthesis.
+
+[PDF page(s): 47 | Chapter: Cell structure and organization | Topic: Cell vacuoles]
+Plant cells have a large and permanent vacuole that usually occupies the central part of the cell. This vacuole contains sap and is surrounded by a membrane called tonoplast. The cell sap causes the cytoplasm to be pushed outwards against the cell wall. This makes the cell firm, hence helps plant cells to maintain their shape.
+
+[PDF page(s): 48 | Chapter: Cell structure and organization | Topic: Activity 3.3; Observing the plant cell]
+Activity 3.3; Observing the plant cell Materials: Onion, knife, forceps, mounting needle, microscope, microscope slide, coverslip, notebook, and a pen or pencil Procedure .
+
+[PDF page(s): 48 | Chapter: Cell structure and organization | Topic: Activity 3.3; Observing the plant cell]
+Safety precaution Take precaution when using sharp objects such as knife, forceps, and mounting needle.
+
+[PDF page(s): 48 | Chapter: Cell structure and organization | Topic: Activity 3.3; Observing the plant cell]
+4. Put it on a microscope slide, and add a drop of water.
+
+[PDF page(s): 48 | Chapter: Cell structure and organization | Topic: Activity 3.3; Observing the plant cell]
+6. Use a low-power objective lens to examine the specimen under the microscope.
+
+[PDF page(s): 48 | Chapter: Cell structure and organization | Topic: Activity 3.3; Observing the plant cell]
+7. Draw what you see under the microscope.
+
+[PDF page(s): 48 | Chapter: Cell structure and organization | Topic: Activity 3.3; Observing the plant cell]
+2.Based on your observations on Activities 3.2 and 3.3, explain the similarities and differences between plant and animal cells.
+
+[PDF page(s): 48 | Chapter: Cell structure and organization | Topic: Activity 3.3; Observing the plant cell]
+Animal and plant cells are similar in that both have a cell membrane, cytoplasm, a nucleus, cell vacuoles and mitochondria.
+
+[PDF page(s): 48 | Chapter: Cell structure and organization | Topic: Activity 3.3; Observing the plant cell]
+The differences between plant and animal cells are shown in Table 3.1.
+
+[PDF page(s): 49 | Chapter: Cell structure and organization | Topic: Activity 3.3; Observing the plant cell]
+1. Has a cell wall 2. Has chloroplast 3. Has a large and permanent centred vacuole 4. It is regular in shape 5. Nucleus is located at the periphery 6.
+
+[PDF page(s): 49 | Chapter: Cell structure and organization | Topic: Cell differentiation]
+An organism that is made up of one cell is called a unicellular organism. Examples of such organisms are Animal cell 1. Has no cell wall 2. Lacks chloroplast 3. Has small and temporary vacuoles 4. It is irregular in shape 5. Nucleus is centrally positioned 6. Stores food in the form of glycogen Amoeba sp.. Paramecium sp., and bacteria. In such organisms, only one cell carries out all the life processes, such as respiration, reproduction, and excretion, Organisms made up of more than one cell are called multicellular organisms. A multicellular organism consists of a few to millions of cells. These cells have different functions and have features that make them better suited to carry out these functions. This is called cell differentiation. Cell differentiation is the process in which a cell changes from one form to another and becomes more specialised to perform specific functions.
+
+[PDF page(s): 49 | Chapter: Cell structure and organization | Topic: Cell differentiation]
+A group of cells that perform the same function form a tissue. Examples of animal tissues are bone, muscle, and blood. Examples of plant tissues are xylem and phloem. Figure 3.7 shows some examples of animal tissues.
+
+[PDF page(s): 50 | Chapter: Cell structure and organization | Topic: Cell differentiation]
+An organ consists of different tissues that work together to perform a certain function. Animal organs include the heart, liver, stomach, and brain. Plant organs include the stem, flowers, fruits, leaves, and roots. Figure 3.8 shows an example of a plant organ.
+
+[PDF page(s): 50 | Chapter: Cell structure and organization | Topic: Cell differentiation]
+An organ system is made up of organs that work together to perform a certain function. Examples of systems are respiratory system, digestive system, reproductive system, hormonal system, skeletal system, and blood circulatory system. For example, the blood circulatory system transports blood to all parts of the body. It consists of the heart, blood vessels, and blood itself.
+
+[PDF page(s): 50,51 | Chapter: Cell structure and organization | Topic: Cell differentiation]
+Most multicellular organisms are made up of different organ systems working together. Therefore, there is special organisation from the cell to tissue, tissue lo organ, organ to organ system to organism. Figure 3.9 shows an example of organ system in the human Importance of ccll differentiation Cell differentiation leads to division of labour. Division of labour among the cells means specific cells performing specific functions. This helps the body to carry out all life processes at the same time and more efficiently.
+
+[PDF page(s): 51 | Chapter: Cell structure and organization | Topic: Cell differentiation]
+The following are examples of specialised animal cells.
+
+[PDF page(s): 51 | Chapter: Cell structure and organization | Topic: Cell differentiation]
+White blood cells White blood cells are also called leucocytes. They protect the body against illness and diseases. The cells can change their shapes so as to engulf and destroy harmful microorganisms. Some cells contain digestive enzymes which destroy the microorganisms. Figure 3.10 shows the structure of a white blood cell.
+
+[PDF page(s): 51 | Chapter: Cell structure and organization | Topic: Cytoplasm]
+Red blood cells Red blood cells erythrocytes. They lack nuclei and are bi-concave in shape.
+
+[PDF page(s): 51 | Chapter: Cell structure and organization | Topic: Cytoplasm]
+The sperm cell fertilizes the female egg during reproduction. The sperm cell has a head and a tail. The tail enables the sperm cell to swim to the egg. Figure 3.12 shows the structure of a sperm.
+
+[PDF page(s): 52 | Chapter: Cell structure and organization | Topic: Nucleus]
+Root hair cells Root hair cells absorb water and mineral salts. They help to increase the surface area for absorption. Figure 3.13 shows the structure of a root hair cell.
+
+[PDF page(s): 52 | Chapter: Cell structure and organization | Topic: Activity 3.4: Observing root hair structure in plants]
+3. Take a microscope slide and place a small drop of water on it. 4. Carefully, place the root sample on the water droplet, ensuring the root hairs are facing down.
+
+[PDF page(s): 53 | Chapter: Cell structure and organization | Topic: Activity 3.4: Observing root hair structure in plants]
+Guard cells surround the stomata. They control the opening and closing of stomata (singular is stoma) of the leaf. The inner walls of guard cells are thicker than the outer walls. This makes them expand irregularly. When the guard cells expand, the stoma opens. When they contract, the stoma closes.
+
+[PDF page(s): 54 | Chapter: Cell structure and organization | Topic: Activity 3.5: Observing cell structure and differentiation in plants]
+2. Use the selected simulations/video to learn the concept of cell structure and differentiation in plants.
+
+[PDF page(s): 54 | Chapter: Cell structure and organization | Topic: Activity 3.6: Observing xylem in plant stems]
+Activity 3.6: Observing xylem in plant stems Materials: Fresh herbaceous plant stem, microscope, microscope slidc, coverslip, water, dropper or pipette, sharp knife, notebook, and a pen or pencil.
+
+[PDF page(s): 54 | Chapter: Cell structure and organization | Topic: Activity 3.6: Observing xylem in plant stems]
+1. Select a fresh herbaceous plant with a thin stem. Herbaceous plants are non-woody plants with soft stems that are easier to work on.
+
+[PDF page(s): 54 | Chapter: Cell structure and organization | Topic: Activity 3.6: Observing xylem in plant stems]
+2. Carefully, cut a thin cross-section of the stem using a sharp knife. The cross-section should be about -2 mm thick.
+
+[PDF page(s): 54 | Chapter: Cell structure and organization | Topic: Activity 3.6: Observing xylem in plant stems]
+4. Add a few drops of water to the cross-section to keep it moist and prevent it from drying out.
+
+[PDF page(s): 54 | Chapter: Cell structure and organization | Topic: Activity 3.6: Observing xylem in plant stems]
+5. Carefully, place a coverslip over the cross-section, ensuring it covers the entire area of the specimen.
+
+[PDF page(s): 54 | Chapter: Cell structure and organization | Topic: Activity 3.6: Observing xylem in plant stems]
+6. Gently, press down on the coverslip to remove any air bubbles and ensure the slide is well-prepared for observation.
+
+[PDF page(s): 54 | Chapter: Cell structure and organization | Topic: Activity 3.6: Observing xylem in plant stems]
+7. Place the prepared slide on the stage of the microscope.
+
+[PDF page(s): 54,55 | Chapter: Cell structure and organization | Topic: Activity 3.6: Observing xylem in plant stems]
+8. Start with the lowest magnification power and adjust the focus knobs to bring the cross-section into focus.
+
+[PDF page(s): 55 | Chapter: Cell structure and organization | Topic: Activity 3.6: Observing xylem in plant stems]
+Gradually, increase the magnification power to higher levels to see the finer details of the xylem tissue.
+
+[PDF page(s): 55 | Chapter: Cell structure and organization | Topic: Activity 3.6: Observing xylem in plant stems]
+Palisade cells Palisade cells found in plant leaves, contain large amounts of chloroplasts. Chloroplasts are the sites for photosynthesis. They contain chlorophyll which traps sunlight energy during photosynthesis. Figure 3.16 shows the structure of a palisade cell.
+
+[PDF page(s): 55 | Chapter: Cell structure and organization | Topic: Chloroplasts]
+5. Cell differentiation refers to the way cells are specialized to perform a specific function.
+
+[PDF page(s): 58,59 | Chapter: Classification of living things | Topic: Classification of living things]
+The process of grouping organisms according to their similarities and differences is called classification. Similar organisms are placed in the same group. The similarities can be in terms of their evolutionary relationship or the way they carry out life processes, such as feeding and reproduction. The field of biology that deals with classifying organisms is called taxonomy. Organisms, such as snails, orange trees, crocodiles, birds, lions, and baobab trees belong to different groups. See Figure 4.1.
+
+[PDF page(s): 60 | Chapter: Classification of living things | Topic: Activity 4.1: Grouping living things according to their similarities and differences]
+1. Walk around the school compound and collect a variety of plants, insects, and other small animals.
+
+[PDF page(s): 60 | Chapter: Classification of living things | Topic: Activity 4.1: Grouping living things according to their similarities and differences]
+(a) Avoid collecting dangerous organisms, such as wasps, scorpions, and snake; and poisonous plants, such as milkweed and oleander.
+
+[PDF page(s): 60 | Chapter: Classification of living things | Topic: Activity 4.1: Grouping living things according to their similarities and differences]
+(b) Avoid collecting weak or injured specimens as they will lead to incorrect observations.
+
+[PDF page(s): 60 | Chapter: Classification of living things | Topic: Activity 4.1: Grouping living things according to their similarities and differences]
+Classification is important in' the study of living things because of the following reasons.
+
+[PDF page(s): 60 | Chapter: Classification of living things | Topic: Activity 4.1: Grouping living things according to their similarities and differences]
+There are millions of species of living things in the world. Grouping them makes it easier to study and identify them, because the members of the group have many characteristics in common.
+
+[PDF page(s): 60 | Chapter: Classification of living things | Topic: Activity 4.1: Grouping living things according to their similarities and differences]
+It makes communication among biologists in the world easier.
+
+[PDF page(s): 60 | Chapter: Classification of living things | Topic: Activity 4.1: Grouping living things according to their similarities and differences]
+It enables scientists to predict characteristics of an organism based on the characteristics of a group it belongs to. When we know the characteristics of a group then we can predict the characteristics of an organism in that group. For example, both an eagle and a chicken are birds. If we know the structure of the heart of a chicken, we can predict the structure of the heart of an eagle even if we have not seen it. It helps to understand how organisms are related in terms of their evolutionary history.
+
+[PDF page(s): 60 | Chapter: Classification of living things | Topic: Classification systems]
+There are two main types of biological classification systems, namely artificial and natural classification systems.
+
+[PDF page(s): 61 | Chapter: Classification of living things | Topic: Classification systems]
+Artificial classification system groups organisms according to a few observable features, for example, the presence of legs or wings. Based on this, bees, birds, and bats would be grouped together because they have wings. Snakes, earthworms, and snails would also be grouped together because they do not have legs. Artificial classification system also involves the use of some other characteristics, such as size, how organisms move, where they live, or what they eat.
+
+[PDF page(s): 61 | Chapter: Classification of living things | Topic: Activity 4.2: Classifying living things using artificial system of classification]
+Activity 4.2: Classifying living things using artificial system of classification Materials: A variety of living things or charts that show pictures of a bird, bat, bee, snake, snail, an earthworm, notebook and pen or a pencil Procedure . Observe the organisms in Figure 4.2 and note as many observable features as you can.
+
+[PDF page(s): 62 | Chapter: Classification of living things | Topic: Activity 4.2: Classifying living things using artificial system of classification]
+Advantages of artificial system of classification (a) It is based on simple and easily observable features. Artificial classification is therefore straightforward and easy to use. (b) It is simple to identify and classify organisms since newly discovered organisms with just a few known features can be easily fitted in. (c) tis stable because it does not change with time or new discoveries. (d) Itis less expensive because it uses few observable features to group the organisms.
+
+[PDF page(s): 62,63 | Chapter: Classification of living things | Topic: Activity 4.2: Classifying living things using artificial system of classification]
+In the natural system of classification, organisms are grouped based on many features in common, particularly those related to evolutionary relationships. In this system, characters that show homology or similarity of origin must be distinguished from those showing analogy or similarity of use. For example, the arms of man, forelimbs of whales, and wings of birds and bats are homologous structures. In contrast, the wings of birds and wings of insects perform similar functions but they are different origins hence, they are analogous. Natural classification system uses homologous characters.
+
+[PDF page(s): 63 | Chapter: Classification of living things | Topic: Activity 4.2: Classifying living things using artificial system of classification]
+It allows organisms which are genetically and evolutionally related to be grouped together.
+
+[PDF page(s): 63 | Chapter: Classification of living things | Topic: Activity 4.2: Classifying living things using artificial system of classification]
+It is more accurate, since it involves scientific research to gather cnough information before the actual ' placement of an organism into a particular group is decided.
+
+[PDF page(s): 63 | Chapter: Classification of living things | Topic: Activity 4.2: Classifying living things using artificial system of classification]
+It is very expensive since it involves experiments, researches, and high level of classification skills.
+
+[PDF page(s): 63 | Chapter: Classification of living things | Topic: Activity 4.2: Classifying living things using artificial system of classification]
+(b) It is tedious and time consuming since it uses many features in grouping organisms.
+
+[PDF page(s): 64 | Chapter: Classification of living things | Topic: Activity 4.3; Classifying organisms based on artificial and natural system of classification]
+1. Observe the external features of organisms and note as many features as you can.
+
+[PDF page(s): 64 | Chapter: Classification of living things | Topic: Major groups of living things]
+The following are the five major groups of living things that constitute the five kingdoms. (a) Kingdom Monera, bacteria.
+
+[PDF page(s): 64 | Chapter: Classification of living things | Topic: Major groups of living things]
+(c) Kingdom Fungi, mushroom and yeast. Kingdom Plantae, examples, maize, bean, and banana plants. Kingdom Animalia, examples, human beings, dogs, and rats.
+
+[PDF page(s): 64 | Chapter: Classification of living things | Topic: Major groups of living things]
+However, viruses have not been included these five kingdoms because they possess features of both living and non-living things. Examples of viruses include Corona virus, Ebola virus, and HIV.
+
+[PDF page(s): 64 | Chapter: Classification of living things | Topic: Major groups of living things]
+In classification of living things, there are seven main ranks or taxonomic units which are arranged hierarchically in a descending order from the highest to the lowest rank.
+
+[PDF page(s): 64 | Chapter: Classification of living things | Topic: Major groups of living things]
+Kingdom, Phylum or Division, Class, Order, Family, Genus, and Species.
+
+[PDF page(s): 65 | Chapter: Classification of living things | Topic: Kingdom Plantae]
+At the species level, organisms share many features. Members of the same species can interbreed to produce fertile offspring. but organisms from different species do not interbreed. If they interbreed, they do not produce fertile offspring. This is because of differences in genetic make-up, behaviour, and morphological features, such as structure of sexual organs. However, there are a few exceptions to this rule. For example, a horse and a donkey can interbreed to produce a mule. Mules are usually but not always infertile. Dogs and wolves can interbreed to produce fertile offspring. In Table 4.2, a few common organisms have been classified from kingdom to species level.
+
+[PDF page(s): 66 | Chapter: Classification of living things | Topic: Kingdom Plantae]
+Note that the names of higher ranks (above species) always start with a capital letter.
+
+[PDF page(s): 66 | Chapter: Classification of living things | Topic: Kingdom Plantae]
+Binomial nomenclature is a scientific system of naming organisms using a two-part name. The first part of the name represents the genus. It is also called the generic name. The second part of the name represents the specific epithet. The two parts form the name of a species or scientific name. This system was first introduced by Carl Linnaeus, who is also referred to as the father of classification.
+
+[PDF page(s): 66 | Chapter: Classification of living things | Topic: Kingdom Plantae]
+Human being Cat Maize plant Animalia Plantae Chordata Angiospermophyta Mammalia Monocotyledoneae Carnivora Graminales Felidae Poaceae Felis Zea Felis catus Zea mays As an example, the scientific name of a human being is Homo sapiens. 'Homo' is the generic name and 'sapiens' is the specific epithet. Scientific names of some other common organisms are shown in Table 4.3.
+
+[PDF page(s): 66 | Chapter: Classification of living things | Topic: Kingdom Plantae]
+Rules of binomial nomenclature The following rules are observed when writing scientific names.
+
+[PDF page(s): 66 | Chapter: Classification of living things | Topic: Kingdom Plantae]
+(a) All scientific names must be written in Latin language or if is in a different language, the name must be Latinised.
+
+[PDF page(s): 66 | Chapter: Classification of living things | Topic: Kingdom Plantae]
+The name should have two parts; the first part represents the genus and the second part represents the specific epithet.
+
+[PDF page(s): 66 | Chapter: Classification of living things | Topic: Kingdom Plantae]
+The generic name is written before the specific epithet.
+
+[PDF page(s): 66 | Chapter: Classification of living things | Topic: Kingdom Plantae]
+The generic name must start with a capital letter and specific epithet begins with a small letter.
+
+[PDF page(s): 66,67 | Chapter: Classification of living things | Topic: Kingdom Plantae]
+In published documents, such as books, scientific names should be whiten in italics, for example Zea mays and Homo sapiens. When handwritten, the names must be underlined separately for example, Zea mays and Homo sapiens. Examples of how the scientific names of some common organisms are written in documents is shown in Table 4.3.
+
+[PDF page(s): 67 | Chapter: Classification of living things | Topic: Kingdom Plantae]
+(a) It makes it easier to identify and study the millions of organisms in the world.
+
+[PDF page(s): 67 | Chapter: Classification of living things | Topic: Kingdom Plantae]
+(b) Each organism (species) is referred to by the same name all over the world.
+
+[PDF page(s): 67 | Chapter: Classification of living things | Topic: Kingdom Plantae]
+(c) It is easier to study organisms when they are in groups.
+
+[PDF page(s): 67 | Chapter: Classification of living things | Topic: Kingdom Plantae]
+(d) It enables scientists to make predictions of information.
+
+[PDF page(s): 67 | Chapter: Classification of living things | Topic: Kingdom Plantae]
+(a) Artificial system of classification is based on few observable features of organisms.
+
+[PDF page(s): 67 | Chapter: Classification of living things | Topic: Kingdom Plantae]
+(b) Natural system of classification is based on many features in common particularly those related to evolutionary relationship.
+
+[PDF page(s): 70,71 | Chapter: Viruses and major groups of living things | Topic: Viruses and major groups of living things]
+A virus is an extremely small fragmentof Figure 5.1: Different types of viruses (a) nucleic acid (DNA or RNA) surrounded - Tobacco mosaic virus (b) Bacteriophage by a protein coat. It is smaller than a living virus (c) Influenza virus Characteristes of viruses (a) They do not have a nucleus, (c) They cannot reproduce on their own. They must attack a host cell cytoplasm, or cell organelle.
+
+[PDF page(s): 71 | Chapter: Viruses and major groups of living things | Topic: Viruses and major groups of living things]
+(d) When outside a host cell. they show no symptoms of life (do not grow, feed, excrete, or respire). They exist in a dormant state.
+
+[PDF page(s): 71,72 | Chapter: Viruses and major groups of living things | Topic: Viruses and major groups of living things]
+(e) They are host-specific. This means that a certain type of virus attacks only a specific host. For example, the rabies virus affects only mammals and HIV (f) Most viruses are infectious: This means they can cause diseases to their hosts.
+
+[PDF page(s): 72 | Chapter: Viruses and major groups of living things | Topic: Viruses and major groups of living things]
+The structure of viruses Viruses are composed of strands of genetic material (DNA or RNA) which forms the core. The core is enclosed by a protein coat called capsid as in bacteriophage. DNA or RNA are of various shapes and sizes according to the type of the virus. Examples of the structures of viruses are shown in Figure 5.3.
+
+[PDF page(s): 72 | Chapter: Viruses and major groups of living things | Topic: Viruses and major groups of living things]
+Advantages of viruses (a) Viruses are important in the study of cell and molecular Biology. They are used by scientists to manipulate and investigate the functions of cells.
+
+[PDF page(s): 72 | Chapter: Viruses and major groups of living things | Topic: Viruses and major groups of living things]
+On recovering from cowpox, the body developed antibodies that could resist both cowpox and smallpox. (c) Bacteriophages are viruses that attack bacteria.
+
+[PDF page(s): 73 | Chapter: Viruses and major groups of living things | Topic: Viruses and major groups of living things]
+Disadvantages of viruses (a) Most viruses are pathogenic. They cause infections and diseases, such as tobacco mosaic disease, tomato spotted wilt disease, cassava mosaic disease, rabies, chickenpox, COVID-19, polio, and AIDS. Pathogenic viruses can reproduce very fast, leading to large-scale epidemics.
+
+[PDF page(s): 73 | Chapter: Viruses and major groups of living things | Topic: Viruses and major groups of living things]
+(b) Viruses can alter themselves often, and thus become difficult to cure viral infections. For example, there are many different types of viruses that can cause common cold and influenza.
+
+[PDF page(s): 73 | Chapter: Viruses and major groups of living things | Topic: Kingdom Monera]
+Kingdom Monera consists of bacteria and blue-green algae. The scientific study of bacteria is called Bacteriology.
+
+[PDF page(s): 73 | Chapter: Viruses and major groups of living things | Topic: Kingdom Monera]
+They are prokaryotic as their cells lack a well-defined nucleus. Their nucleus has no nuclear membrane. They also lack other membrane bound organelles.
+
+[PDF page(s): 73 | Chapter: Viruses and major groups of living things | Topic: Kingdom Monera]
+Some are free-living while others are parasites or saprophytes. Free-living bacteria means that they exist on their own. Parasitic bacteria depend on other organisms known as hosts for their needs. Examples of hosts are human beings and other animals. Saprophytic bacteria get their food from dead organic matter by external digestion.
+
+[PDF page(s): 73 | Chapter: Viruses and major groups of living things | Topic: Kingdom Monera]
+Free-living bacteria and some parasitic bacteria have flagella for movement.
+
+[PDF page(s): 73 | Chapter: Viruses and major groups of living things | Topic: Kingdom Monera]
+Bacteria have a slimy outer layer. This layer helps to protect them from parasites like viruses and predators, such as protozoa.
+
+[PDF page(s): 73,74 | Chapter: Viruses and major groups of living things | Topic: Kingdom Monera]
+They reproduce asexually by binary fission or through spores. They occur in various shapes. There are five known shapes of bacteria. These are spherical- shaped bacteria or cocci (singular is coccus), rod-shaped or bacilli (singular is bacillus), spiral-shaped bacteria or spirilla (singular is spirillum), and comma-shaped bacteria or vibrio (singular is vibrion). The following Table shows various shapes of bacteria.
+
+[PDF page(s): 74 | Chapter: Viruses and major groups of living things | Topic: Kingdom Monera]
+Treponema pallidum that causes syphilis Vibrio cholerae that causes cholera Spirochaetes Borrelia sp.
+
+[PDF page(s): 75 | Chapter: Viruses and major groups of living things | Topic: Activity 5.1: Observing features of bacteria]
+Based on your observations and comparisons with diagrams in Figure 5.4, discuss any similarities and differences you noted between the observed bacteria and the diagrams in Figure 5.4.
+
+[PDF page(s): 76 | Chapter: Viruses and major groups of living things | Topic: Cytoplasm]
+These are bacteria that can Some of the diseases caused by bacteria in plants are fire blight and crown gall. In animals, bacteria cause diseases, such cause infections and diseases.
+
+[PDF page(s): 76 | Chapter: Viruses and major groups of living things | Topic: Cytoplasm]
+These are long tail-like structures that help some pathogenic bacteria to move. An example of bacteria with flagella is shown in Figure 5.5.
+
+[PDF page(s): 76 | Chapter: Viruses and major groups of living things | Topic: Cytoplasm]
+Some bacteria = produce __toxic compounds that harm their hosts. Human body reacts to the produced toxins by inducing vomiting and diarrhoea in order to remove those toxins. For instance, toxins released by Clostridium sp. can lead to severe diarrhoea due to body reaction. Bacteria also perform invasion and colonization; - transformation; - and resistance. Invasion and colonization happen when bacteria attack cells and tissues and reproduce rapidly. Bacteria can transform themselves and become resistant to modes of treatment. For example, the bacterium that causes tuberculosis has become resistant to many antibiotics by transforming itself.
+
+[PDF page(s): 77 | Chapter: Viruses and major groups of living things | Topic: Cytoplasm]
+Bacteria in the stomach of ruminant animals, such as goats and cattle secrete cellulase enzyme. Cellulase enzyme helps in the digestion of cellulose which forms a large pan of the diet of ruminants.
+
+[PDF page(s): 77 | Chapter: Viruses and major groups of living things | Topic: Cytoplasm]
+Nitrogen-fixing bacteria live in the root nodules of leguminous plants. They conven free nitrogen in the air into nitrates in soil which can be used by plants to make proteins.
+
+[PDF page(s): 77 | Chapter: Viruses and major groups of living things | Topic: Cytoplasm]
+Many bacteria are decomposers. They break down the dead bodies of plants and animals to release important elements, such as nitrogen, carbon, and phosphorus which can be recycled.
+
+[PDF page(s): 77 | Chapter: Viruses and major groups of living things | Topic: Cytoplasm]
+Some bacteria are used to produce antibiotics, which are used to treat bacterial infections.
+
+[PDF page(s): 77 | Chapter: Viruses and major groups of living things | Topic: Cytoplasm]
+Bacteria such as Escherichia coli in the human gut synthesize vitamins K and B12.
+
+[PDF page(s): 77 | Chapter: Viruses and major groups of living things | Topic: Cytoplasm]
+Many bacteria cause infections and diseases in animals. Some of the common bacterial diseases of animals are typhoid fever caused by Salmonella typhi, Tuberculosis (TB) caused by Mycobacterium tuberculosis and gonorrhoea caused by Neisseria gonorrhoeae.
+
+[PDF page(s): 77 | Chapter: Viruses and major groups of living things | Topic: Cytoplasm]
+Some bacteria cause crops diseases. Examples of these diseases are fire blight on pea and apple, and leaf spot in cotton.
+
+[PDF page(s): 77 | Chapter: Viruses and major groups of living things | Topic: Cytoplasm]
+Some bacteria cause food spoilage by decaying stored food and making it unsuitable for human consumption. Sulphur bacteria produce sulphuric acid, which causes damage to buried metal pipes.
+
+[PDF page(s): 78 | Chapter: Viruses and major groups of living things | Topic: Cytoplasm]
+(e) Denitrifying bacteria convert soil nitrates into atmospheric nitrogen; therefore, they reduce soil fertility.
+
+[PDF page(s): 78 | Chapter: Viruses and major groups of living things | Topic: Kingdom Protoctista]
+Members of this kingdom include Amoeba sp., Euglena sp., Plasmodium sp., Paramecium sp., and Trypanosoma sp.
+
+[PDF page(s): 78 | Chapter: Viruses and major groups of living things | Topic: Kingdom Protoctista]
+From the library and reliable internet sources, search information about protoctists (characteristics, advantages, _and disadvantages).
+
+[PDF page(s): 78 | Chapter: Viruses and major groups of living things | Topic: Kingdom Protoctista]
+Characteristics of protoctists (a) They are eukaryotic as they have nucleus and other membrane bound organelles.
+
+[PDF page(s): 78 | Chapter: Viruses and major groups of living things | Topic: Kingdom Protoctista]
+Most of them live in or near water, or in moist places.
+
+[PDF page(s): 78 | Chapter: Viruses and major groups of living things | Topic: Kingdom Protoctista]
+(d) Some protoctists are autotrophs (manufacture their own food) while others are heterotrophs (obtain nutrients from other organisms).
+
+[PDF page(s): 78,79 | Chapter: Viruses and major groups of living things | Topic: Kingdom Protoctista]
+Organisms included in phylum Rhizopoda move and feed using structures known as pseudopodia (singular is pseudopodium). An example of organisms found in this phylum is Amoeba sp. Parasitic amoeba includes Entamoeba histolytica, which feeds on cells of the human colon and cause amoebic dysentery. Free living amoeba are found in sea water, freshwater, and in the soil. They can also be found in muddy ponds and slow flowing streams containing decaying organic matter. A generalised structure of amoeba is shown in Figure 5.7.
+
+[PDF page(s): 79 | Chapter: Viruses and major groups of living things | Topic: Kingdom Protoctista]
+(a) Amoeba have two layers of cytoplasm; a viscous outer layer called ectoplasm and a more fluid internal layer called endoplasm.
+
+[PDF page(s): 79 | Chapter: Viruses and major groups of living things | Topic: Kingdom Protoctista]
+(b) Most of them are free living, feeding on plant and animal matter. Others are parasitic in animals, including human beings.
+
+[PDF page(s): 79 | Chapter: Viruses and major groups of living things | Topic: Kingdom Protoctista]
+(c) They have pseudopodia which are used for both locomotion and feeding, as shown in Figure 5.8.
+
+[PDF page(s): 79 | Chapter: Viruses and major groups of living things | Topic: Kingdom Protoctista]
+(d) They have contractile vacuoles which regulate the amount of water in the freshwater amoeba.
+
+[PDF page(s): 79 | Chapter: Viruses and major groups of living things | Topic: Kingdom Protoctista]
+(e) They form temporary food vacuoles to hold and digest food particles.
+
+[PDF page(s): 79,80 | Chapter: Viruses and major groups of living things | Topic: Kingdom Protoctista]
+(f) In amoeba, waste products, such as urea and ammonia are excreted by simple diffusion. Diffusion is the movement of substances from a region of high concentration to a region of low concentration. When there is a high concentration of urea or ammonia in the amoeba, these substances flow out of the amoeba into the surrounding water.
+
+[PDF page(s): 80 | Chapter: Viruses and major groups of living things | Topic: Kingdom Protoctista]
+(i) They reproduce asexually by binary fission, as shown in Figure 5.9.
+
+[PDF page(s): 80 | Chapter: Viruses and major groups of living things | Topic: Kingdom Protoctista]
+(a) Movement in amoeba (b) Feeding in amoeba (c) Asexual reproduction (binary fission) in amoeba Advantage of amoeba (a) Amoeba are commonly used in laboratories to study cell structure and function.
+
+[PDF page(s): 80 | Chapter: Viruses and major groups of living things | Topic: Kingdom Protoctista]
+Amoeba are important decomposers in aquatic environments, feeding on organic particles in the water.
+
+[PDF page(s): 80 | Chapter: Viruses and major groups of living things | Topic: Kingdom Protoctista]
+Disadvantage of amoeba Some species of Amoeba cause diseases. For example, Entamoeba histolytica causes amoebic dysentery in humans and Entamoeba gingivalis cause teeth and gum diseases.
+
+[PDF page(s): 81 | Chapter: Viruses and major groups of living things | Topic: Kingdom Protoctista]
+This phylum consists of unicellular aquatic organisms most of which live in freshwater and possess flagella. Euglena sp.is an example of organisms found in this phylum. Figure 5.10 shows the structure of Euglena sp.
+
+[PDF page(s): 81 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+They have chloroplasts which contain chlorophyll for photosynthesis. Most of them are found in freshwater: only a few are found in salt water.
+
+[PDF page(s): 81 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+(c) (d) They are protected by pellicle, which surrounds the cytoplasm. The pellicle allows the euglena to change shape.
+
+[PDF page(s): 81 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+(f) They have eye spot for detection of light intensity. (g) They are eukaryotic cells.
+
+[PDF page(s): 81 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+(h) They possess both plant and animal characteristics. The plant characteristic is the possession of chloroplasts which contain chlorophyll for photosynthesis. The animal characteristics include ability to move using a flagellum, presence of an eyespot for detection of light intensity, and presence of gullet for ingesting food.
+
+[PDF page(s): 81 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+(a) They are used for sewage treatment due to their heterotrophic mode of nutrition.
+
+[PDF page(s): 81 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+(c) During photosynthesis, Euglena sp. produce oxygen gas. This oxygen is useful to aquatic organisms. It also helps to balance oxygen gas levels in sewage treatment plants.
+
+[PDF page(s): 81 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+Disadvantages of Euglena sp. Euglena sp. blooms can be harmful to fish. The toxins produced by some Euglena species can kill fish and other aquatic organisms.
+
+[PDF page(s): 82 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+Organisms found in this phylum are unicellular and parasitic, Plasmodium sp. which cause malaria in humans its an example of members of phylum Apicomplexa.
+
+[PDF page(s): 82 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+Characteristics of Plasmodium sp. (a) They are unicellular.
+
+[PDF page(s): 82 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+(d) They reproduce sexually in the human host and asexually by multiple fission in the mosquito vector and human host.
+
+[PDF page(s): 82 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+(e) When a plasmodium enters the human body, it attacks the red blood cells and liver cells.
+
+[PDF page(s): 82 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+Advantage of Plasmodium sp. Plasmodium sp. is used in medical and other researches.
+
+[PDF page(s): 82 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+Plasmodium parasites cause malaria. Malaria can cause inflammation and rupture of the spleen, and miscarriages. It can also cause anaemia due to the destruction of red blood cells. Severe malaria can cause death.
+
+[PDF page(s): 82 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+Organisms found in this phylum are unicellular and are found in aquatic habitats. Paramecium sp. is an example of members of phylum Ciliophora. Figure 5.11 shows a structure of a Paramecium sp.
+
+[PDF page(s): 83 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+The body is covered with shorn hairy structures called cilia.
+
+[PDF page(s): 83 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+They use cilia to move and to create a feeding current.
+
+[PDF page(s): 83 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+The body of the paramecium cell is enclosed by a stiff but elastic membrane, called the pellicle. Food enters the organism through an opening called the oral groove. They have food vacuoles which are formed to hold and digest food panicles.
+
+[PDF page(s): 83 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+Paramecium sp. can reproduce either asexually or sexually, depending on their environmental conditions. Asexual reproduction takes place when enough nutrients are available, while sexual reproduction takes place under conditions of starvation.
+
+[PDF page(s): 83 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+Contractile vacuoles regulate the anount of water in the cytoplasm.
+
+[PDF page(s): 83 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+Advantages of Paramecium sp. Paramecium sp. play important ecological role in the environment as they help to clean up small particles of debris in the water as well as feeding on small animals.
+
+[PDF page(s): 83 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+(a) Some species of Paramecium invade and destroy the lining of the intestine, causing a disease called balantidiasis.
+
+[PDF page(s): 83 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+Paramecium sp. feed on bacteria which decompose sewage. This may delay the decomposition of sewage.
+
+[PDF page(s): 83 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+Organisms found in this phylum are unicellular flagellate protoctists. Generally, they are found in the intestine, but can also be found in blood stream or in the heart. Trypanosoma sp. is an example of members of phylum Zoomastigina. Figure 5.12 shows the structure of a Trypanosoma sp.
+
+[PDF page(s): 83,84 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+Undulating membrane Nucleus Characteristics of Trypanosoma sp. (a) They are unicellular, slender, elongated, and dorsal ventrally flattened in shape.
+
+[PDF page(s): 84 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+They are parasites in wild animals, domesticated animals, and human beings.
+
+[PDF page(s): 84 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+Have a mass of mitochondrial DNA located near the mitochondrion ina structure called kinetoplast.
+
+[PDF page(s): 84 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+The body is covered with a thin, elastic, and firm pellicle.
+
+[PDF page(s): 84 | Chapter: Viruses and major groups of living things | Topic: Chloroplasts]
+Most of them reproduce asexually by binary fission while inside the host body.
+
+[PDF page(s): 85 | Chapter: Viruses and major groups of living things | Topic: Activity 5.2: Investigating different protoctists]
+Caution Care must be taken when collecting water samples from the pond.
+
+[PDF page(s): 85 | Chapter: Viruses and major groups of living things | Topic: Activity 5.2: Investigating different protoctists]
+The kingdom Fungi contains a variety of eukaryotic organisms that consist of bounded cell organelles, such as mitochondria and nucleus. Most of them are multicellular (made up of many cells) and some are unicellular (made up of a single cell). Example of unicellular fungi yeast (Saccharomyces sp.). Examples of multicellular fungi include bread mould (Rhizopus sp.), pin mould (Mucor sp.), and mushroom (Agaricus sp.).
+
+[PDF page(s): 85 | Chapter: Viruses and major groups of living things | Topic: Activity 5.2: Investigating different protoctists]
+General characteristics of Fungi Members of the kingdom Fungi have the following general characteristics.
+
+[PDF page(s): 85 | Chapter: Viruses and major groups of living things | Topic: Activity 5.2: Investigating different protoctists]
+(a) They are found in various places including air, water, soil, food, and in the bodies of animals and plants.
+
+[PDF page(s): 85 | Chapter: Viruses and major groups of living things | Topic: Activity 5.2: Investigating different protoctists]
+(c) They can be either unicellular, example yeast or multicellular, examples mould and mushroom. (d) Their body is made up of a mycelium consisting of a network of fine, tube-like filaments called hyphae (except yeast).
+
+[PDF page(s): 85 | Chapter: Viruses and major groups of living things | Topic: Activity 5.2: Investigating different protoctists]
+(e) They feed saprophytically. for example mushroom; but some of them are parasitic for example Candida albicans.
+
+[PDF page(s): 85 | Chapter: Viruses and major groups of living things | Topic: Activity 5.2: Investigating different protoctists]
+Some fungi form symbiotic associations with other species.
+
+[PDF page(s): 85 | Chapter: Viruses and major groups of living things | Topic: Activity 5.2: Investigating different protoctists]
+They reproduce both sexually by spores and asexually by budding.
+
+[PDF page(s): 85 | Chapter: Viruses and major groups of living things | Topic: Activity 5.2: Investigating different protoctists]
+(h) They store carbohydrates in the form of glycogen.
+
+[PDF page(s): 86 | Chapter: Viruses and major groups of living things | Topic: Activity 5.2: Investigating different protoctists]
+Distinctive features of Fungi (a) They have cell walls made up of chitin, which ts a substance containing protein and complex sugars.
+
+[PDF page(s): 86 | Chapter: Viruses and major groups of living things | Topic: Activity 5.2: Investigating different protoctists]
+(b) Their bodies are made up of a mycelium consisting of a network of fine, tube-like filaments called hyphae (except yeast).
+
+[PDF page(s): 86 | Chapter: Viruses and major groups of living things | Topic: Activity 5.2: Investigating different protoctists]
+The members of kingdom Fungi are classified into different phyla. There are three main phyla in kingdom Fungi. These are Ascomycota, Zygomycota, and Basidiomycota.
+
+[PDF page(s): 86 | Chapter: Viruses and major groups of living things | Topic: Activity 5.2: Investigating different protoctists]
+Search information from the library and reliable internet sources on yeast, bread mould, and mushroom. Note down their characteristics, advantages _and disadvantages.
+
+[PDF page(s): 86 | Chapter: Viruses and major groups of living things | Topic: Activity 5.2: Investigating different protoctists]
+Members of this phylum are commonly called ascomycetes or sac fungi. This is because their sexual spores are enclosed in sac like structures known as asci (singular is ascus). Some ascomycetes such as yeast single-celled (unicellular) organisms. (See Figure § 13).
+
+[PDF page(s): 86 | Chapter: Viruses and major groups of living things | Topic: Activity 5.2: Investigating different protoctists]
+Characteristics of ascomycetes (a) Some ascomycetes such as yeast are unicellular and others such as Penicillium sp. are multicellular.
+
+[PDF page(s): 86 | Chapter: Viruses and major groups of living things | Topic: Activity 5.2: Investigating different protoctists]
+Most ascomycetes have a saprophytic mode of feeding and can grow on the surfaces of dead organic materials such as rotting fruit and other foods.
+
+[PDF page(s): 86 | Chapter: Viruses and major groups of living things | Topic: Activity 5.2: Investigating different protoctists]
+(c) They have long tube-like filaments called hyphae with cross walls.
+
+[PDF page(s): 87 | Chapter: Viruses and major groups of living things | Topic: Activity 5.3: Investigating the structure of yeast cells]
+2. Using a dropper, place a drop of the yeast solution on a microscope slide and cover it with a coverslip.
+
+[PDF page(s): 87 | Chapter: Viruses and major groups of living things | Topic: Activity 5.3: Investigating the structure of yeast cells]
+3. Examine the specimen using the low-power objective lens of the microscope.
+
+[PDF page(s): 87 | Chapter: Viruses and major groups of living things | Topic: Activity 5.3: Investigating the structure of yeast cells]
+The members of this group are known as zygomycetes because they have sexual spores known as zygospores. Zygospores are produced in the structures called zygosporangia. They also have asexual spores known as sporangiospores, which are produced in the structures called sporangia. Zygomycetes grow as a mass of white or dark tiny threads and feed on rotting or decaying food materials like bread, cassava, pawpaw, and tomato. Examples of organisms in this group include mucor and black bread mould. See Figure 5.15.
+
+[PDF page(s): 87 | Chapter: Viruses and major groups of living things | Topic: Activity 5.3: Investigating the structure of yeast cells]
+(b) They are saprophytic, growing on decaying organic materials.
+
+[PDF page(s): 87 | Chapter: Viruses and major groups of living things | Topic: Activity 5.3: Investigating the structure of yeast cells]
+(c) They reproduce sexually through zygospores or asexually through sporangiosphores.
+
+[PDF page(s): 88 | Chapter: Viruses and major groups of living things | Topic: Activity 5.4: Investigating the structure of bread mould]
+1. Take a slice of bread, put it on a petri dish and moisten it.
+
+[PDF page(s): 88 | Chapter: Viruses and major groups of living things | Topic: Activity 5.4: Investigating the structure of bread mould]
+2. Leave the bread on the moist place for 2-3 days until a greyish or dark spots appear on it.
+
+[PDF page(s): 88 | Chapter: Viruses and major groups of living things | Topic: Activity 5.4: Investigating the structure of bread mould]
+Members of the phylum Basidiomycota are called basidiomycetes. They have structures called basidia (singular is basidium) that produce sexual spores. The basidia are usually clubshaped structures. Hence, members of this group are also known as club fungi because they all possess basidia. Their sexual spores are called basidiospores. The common examples of basidiomycetes are mushrooms and toadstools, such as Agaricus bisporus (edible mushroom). Other examples of basidiomycetes include brackets, have occurred on the surface of puffballs, and rust fungi.
+
+[PDF page(s): 88 | Chapter: Viruses and major groups of living things | Topic: Activity 5.4: Investigating the structure of bread mould]
+Take a small sample of dark spots using forceps and place it on a microscope slide, add a drop of water, and cover with a coverslip.
+
+[PDF page(s): 88 | Chapter: Viruses and major groups of living things | Topic: Activity 5.4: Investigating the structure of bread mould]
+Put the sample on_ the microscope stage and observe using the low, medium, and high objective lenses.
+
+[PDF page(s): 88 | Chapter: Viruses and major groups of living things | Topic: Activity 5.4: Investigating the structure of bread mould]
+Characteristics of basidiomycetes (a) They are multicellular organisms. (b) They are saprophytic, growing on decaying organic matter.
+
+[PDF page(s): 89 | Chapter: Viruses and major groups of living things | Topic: Activity 5.4: Investigating the structure of bread mould]
+(d) They produce sexual spores called basidiospores contained in clublike structures known as basidia.
+
+[PDF page(s): 89 | Chapter: Viruses and major groups of living things | Topic: Activity 5.5: Investigating the structure of amushroom]
+1. Use a hand lens to examine the mushroom structure.
+
+[PDF page(s): 89 | Chapter: Viruses and major groups of living things | Topic: Activity 5.5: Investigating the structure of amushroom]
+Caution Care should be taken when using sharp objects, such as knife.
+
+[PDF page(s): 89 | Chapter: Viruses and major groups of living things | Topic: Activity 5.5: Investigating the structure of amushroom]
+Advantages of fungi (a) Most strains of mushrooms and toadstools, such as Agaricus sp. are edible. They are used as sources of food and they have a high content of proteins and vitamins.
+
+[PDF page(s): 89 | Chapter: Viruses and major groups of living things | Topic: Activity 5.5: Investigating the structure of amushroom]
+(b) Fungi, suchas yeasts (Saccharomyces sp.) are used in food manufacturing industries, such as in bakeries (they make dough to rise). Yeast is also used in brewing beer by fermenting sugars to produce alcohol.
+
+[PDF page(s): 89 | Chapter: Viruses and major groups of living things | Topic: Activity 5.5: Investigating the structure of amushroom]
+Some fungi such as Penicillium spp. are important in production of drugs such as penicillin.
+
+[PDF page(s): 90 | Chapter: Viruses and major groups of living things | Topic: Activity 5.5: Investigating the structure of amushroom]
+Some fungi, such as Candida albicans live' in' the - bodies of human beings. They grow naturally in the human body, particularly in the mouth, throat, gut, and female reproductive tracts without causing any harm. These fungi can cause infection if they grow in excess and enter deep into the body organs and systems, such as in the blood stream, kidney, heart or brain.
+
+[PDF page(s): 90 | Chapter: Viruses and major groups of living things | Topic: Activity 5.5: Investigating the structure of amushroom]
+Some parasitic fungi, such as certain types of ascomycetes produce poisonous called mycotoxins. common mycotoxin as aflatoxin, which is commonly found in harvested maize and groundnuts that have been left in moist places. Aflatoxin is carcinogen (cancer causing agent). Some mushrooms, such as Amanita sp. are poisonous to humans when eaten.
+
+[PDF page(s): 91 | Chapter: Viruses and major groups of living things | Topic: Kingdom Plantae]
+Kingdom Plantae is composed of a wide variety of plants. Members of this kingdom vary greatly in size, forms, habitat, means of reproduction, and morphology. Kingdom Plantae includes; moss, ferns, cone bearing plants, and flowering plants. Plants are found in various habitats, such as on land, in oceans, and in freshwater.
+
+[PDF page(s): 91 | Chapter: Viruses and major groups of living things | Topic: Activity 5.6: Investigating plant parts]
+Collect a variety of plants from the school or home environment.
+
+[PDF page(s): 91 | Chapter: Viruses and major groups of living things | Topic: Activity 5.6: Investigating plant parts]
+Care must be taken when collecting plants, some plants such as milkweed and oleander are poisonous.
+
+[PDF page(s): 91 | Chapter: Viruses and major groups of living things | Topic: Activity 5.6: Investigating plant parts]
+Group the plants according to their similarities and differences.
+
+[PDF page(s): 91 | Chapter: Viruses and major groups of living things | Topic: Activity 5.6: Investigating plant parts]
+(b) They have cell organelles called chloroplasts that contain chlorophyll.
+
+[PDF page(s): 91 | Chapter: Viruses and major groups of living things | Topic: Activity 5.6: Investigating plant parts]
+(c) Green plants are photoautotrophs. This means that they manufacture their own food using sunlight through the process of photosynthesis.
+
+[PDF page(s): 91 | Chapter: Viruses and major groups of living things | Topic: Activity 5.6: Investigating plant parts]
+(d) Some plants reproduce sexually through flowers or cones while others reproduce asexually by means of spores or vegetative propagation.
+
+[PDF page(s): 91 | Chapter: Viruses and major groups of living things | Topic: Activity 5.6: Investigating plant parts]
+(f) They show limited movement, for example opening and closing of flower petals and growth movements towards stimuli such as light and water.
+
+[PDF page(s): 91 | Chapter: Viruses and major groups of living things | Topic: Activity 5.6: Investigating plant parts]
+Distinctive features of members of the kingdom Plantae (a) They have a cell wall made up of cellulose.
+
+[PDF page(s): 91 | Chapter: Viruses and major groups of living things | Topic: Activity 5.6: Investigating plant parts]
+(b) Higher plants have vascular tissues for conduction of water, mineral salts, and manufactured food.
+
+[PDF page(s): 91 | Chapter: Viruses and major groups of living things | Topic: Activity 5.6: Investigating plant parts]
+(c) They store food in the form of starch.
+
+[PDF page(s): 91 | Chapter: Viruses and major groups of living things | Topic: Activity 5.6: Investigating plant parts]
+The kingdom Plantae is divided into four main divisions. These are: division Bryophyta; division Filicinophyta or Pteridophyta; division Coniferophyta; and division Angiospermophyta.
+
+[PDF page(s): 92 | Chapter: Viruses and major groups of living things | Topic: Activity 5.6: Investigating plant parts]
+Members of the division Bryophyta are called bryophytes, which are the most primitive plants.
+
+[PDF page(s): 92 | Chapter: Viruses and major groups of living things | Topic: Activity §.7, Investigating the structure of bryophytes]
+1. Collect moss plants from the school or home environment.
+
+[PDF page(s): 92 | Chapter: Viruses and major groups of living things | Topic: Activity §.7, Investigating the structure of bryophytes]
+2. Use a hand lens to observe the structure of a moss plant.
+
+[PDF page(s): 92 | Chapter: Viruses and major groups of living things | Topic: Activity §.7, Investigating the structure of bryophytes]
+Generalcharacteristicsofbryophytes (a) Bryophytes live in moist, damp, and shaded areas.
+
+[PDF page(s): 92 | Chapter: Viruses and major groups of living things | Topic: Activity §.7, Investigating the structure of bryophytes]
+They do not produce flowers, fruits or seeds.
+
+[PDF page(s): 92 | Chapter: Viruses and major groups of living things | Topic: Activity §.7, Investigating the structure of bryophytes]
+(b) (c) They have root-like structures called rhizoids.
+
+[PDF page(s): 93 | Chapter: Viruses and major groups of living things | Topic: Activity §.7, Investigating the structure of bryophytes]
+They are simple plants which lack true roots, stems and leaves (See Figure 5.18).
+
+[PDF page(s): 93 | Chapter: Viruses and major groups of living things | Topic: Activity §.7, Investigating the structure of bryophytes]
+They have an erect plant body, which is leafy in nature.
+
+[PDF page(s): 93 | Chapter: Viruses and major groups of living things | Topic: Activity §.7, Investigating the structure of bryophytes]
+They have no vascular tissue, meaning that they have no xylem and phloem.
+
+[PDF page(s): 93 | Chapter: Viruses and major groups of living things | Topic: Activity §.7, Investigating the structure of bryophytes]
+They usually depend on water for sexual reproduction.
+
+[PDF page(s): 93 | Chapter: Viruses and major groups of living things | Topic: Activity §.7, Investigating the structure of bryophytes]
+They help to decompose dead logs and enhance nutrient circulation. They are early colonisers of open woodland; hence they help in creating a favourable environment for the development of higher plants.
+
+[PDF page(s): 93 | Chapter: Viruses and major groups of living things | Topic: Activity §.7, Investigating the structure of bryophytes]
+They provide food to heterotrophs, such as insects, fungi, and bacteria. They play a great role in preventing soil erosion by holding the soil particles together.
+
+[PDF page(s): 93 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+Collect some fern plants from the school or home environment.
+
+[PDF page(s): 93 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+Care must be taken when collecting fern plants. Get only what is required instead of destroying the whole plant.
+
+[PDF page(s): 94 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+Members of division Filicinophyta are called filicinophytes or pteridophytes. Examples of filicinophytes are ferns, club mosses, and horsetails, as shown in Figure 5.19. Filicinophytes are much more advanced than bryophytes because they have true roots, stems and leaves.
+
+[PDF page(s): 94 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+Leaves of filicinophytes are called fronds. Fronds are usually composed of a leafy blade and petiole (leaf stalk), as shown in Figure 5.20.
+
+[PDF page(s): 95 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+General characteristics of filicinophytes (a) They live in moist, damp and shady areas.
+
+[PDF page(s): 95 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+(b) They are less dependent on water for survival and reproduction than bryophytes.
+
+[PDF page(s): 95 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+(c) They have true roots, stems and leaves.
+
+[PDF page(s): 95 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+(f) They do not produce flowers and seeds.
+
+[PDF page(s): 95 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+Distinctive features of ferns (a) Their leaves bear spore-producing structures called sori (singular is sorus).
+
+[PDF page(s): 95 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+(b) Their leaves are arranged in a clump and are called fronds.
+
+[PDF page(s): 95 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+Advantages of ferns (a) They constitute ground-cover in moist areas.
+
+[PDF page(s): 95 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+(b) They produce food for themselves and for heterotrophic organisms in ecosystem.
+
+[PDF page(s): 95 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+(c) They are used for decoration in homes and offices.
+
+[PDF page(s): 95 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+Some ferns, such as Drvopteris sp. have a medicinal value.
+
+[PDF page(s): 95 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+Disadvantage of ferns Ferns are regarded as weeds in many places. For example. the giant fern plants are the worst aquatic weeds that threaten the life of other aquatic organisms. In terrestrial environment, some species of fern plants, such as Preridium sp. are common weeds.
+
+[PDF page(s): 95 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+1. Collect the branches of pine, cypress, and cedar plants from the school or home environment. Caution Care must be taken when collecting a variety of conifer branches or cones. Get only what is required instead of destroying the whole plant.
+
+[PDF page(s): 96 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+2. Observe the structural features that are possessed by these plants which are different from those of other plants. 3. Note down the distinctive features of conifers.
+
+[PDF page(s): 96 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+Coniferophyta is one of the divisions of the kingdom Plantae. Plants under the division Coniferophyta are sometimes called coniferous trees or simply conifers. These conifers bear cones and they are referred to as coniferophytes. The conifers are non-flowering plants whose seeds are not enclosed in ovaries, but are arranged spirally giving the shape of the cone. Examples of conifers include casuarinas, spruces, cedars, pines, and cypress plants. Figure 5.21 (a) and (b) shows the tree and branch of conifer.
+
+[PDF page(s): 97 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+They have reproductive structures called cones. There are male and female cones.
+
+[PDF page(s): 97 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+Distinctive features of conifers (a) They bear cones.
+
+[PDF page(s): 97 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+(c) They have naked seeds, which are born in cones.
+
+[PDF page(s): 97 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+(d) The mature seeds are typically winged. This is an adaptation for seed dispersal by wind.
+
+[PDF page(s): 97 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+Advantages of conifers (a) Conifers are the evergreen plants, which are grown in large forests and produce useful timber called softwood.
+
+[PDF page(s): 97 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+Conifer forests are home to many birds and other animals.
+
+[PDF page(s): 97 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+They are also used to produce wood pulp for paper making. Turpentine which used as cleaning agent for painting as well as production of disinfectants and insecticides is also a product of conifers.
+
+[PDF page(s): 97 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+Conifer trees are used as firewood; hence they are a source of heat. They are a source of food to organisms, such as insects and squirrel.
+
+[PDF page(s): 97 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+Many species of Pinus are used as ornaments when planted in parks and gardens. Cypress also is commercially grown and harvested for decoration during festivals, such as Christmas. Conifers remove carbon dioxide from the atmosphere through photosynthesis.
+
+[PDF page(s): 97 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+Disadvantages of conifers (a) Coniferous forest completely shades the ground and prevents the growth of other plants.
+
+[PDF page(s): 97 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+(b) Wood products from conifers are soft and can be easily attacked by termites if not treated.
+
+[PDF page(s): 98 | Chapter: Viruses and major groups of living things | Topic: Activity 5.8: Investigating the structure of a fern plant]
+(c) They have needle like thorny leaves that can prick and cause injury. Resins which are produced by pines catch fire easily. Thus, in case of fire outbreak in a pine forest, fire is likely to spread rapidly because of the resins.
+
+[PDF page(s): 98 | Chapter: Viruses and major groups of living things | Topic: Activity 5.10: Investigating the structure of flowering plants]
+1. Collect hibiscus plant, common bean plants, maize plants and elephant grass plants from the school or home environment. Make sure that you carefully uproot the entire plant in order to display their root system clearly, except for hibiscus.
+
+[PDF page(s): 98 | Chapter: Viruses and major groups of living things | Topic: Activity 5.10: Investigating the structure of flowering plants]
+(a) Get only what is required instead of destroying the whole plant.
+
+[PDF page(s): 98 | Chapter: Viruses and major groups of living things | Topic: Activity 5.10: Investigating the structure of flowering plants]
+Do not collect dangerous plants, such as thorny plant, itching and poisonous plants. Be careful of stinging animals, such as bees, wasps, and spider found on plants.
+
+[PDF page(s): 98 | Chapter: Viruses and major groups of living things | Topic: Activity 5.10: Investigating the structure of flowering plants]
+General characteristics of angiosperms The following are the general features of angiosperms.
+
+[PDF page(s): 98 | Chapter: Viruses and major groups of living things | Topic: Activity 5.10: Investigating the structure of flowering plants]
+Angiosperms are found in terrestrial, freshwater and marine habitats. Angiosperms have a well-developed root system, stem and leaves. Their seeds are enclosed and protected in the ovary.
+
+[PDF page(s): 98 | Chapter: Viruses and major groups of living things | Topic: Activity 5.10: Investigating the structure of flowering plants]
+They produce seed bearing fruits. They have well developed conducting tissues which contain xvlem and phloem.
+
+[PDF page(s): 99 | Chapter: Viruses and major groups of living things | Topic: Classes of the division Angiospermophyta]
+The division Angiospermophyta is divided into two classes. These classes are Monocotyledoneue and Dicotyledoneae. The word "Mono" means one and "Di" means two. Monocots have been named from having one cotyledon and dicots from having two cotyledons. Cotyledon is the part of seed that develops into the leaves after germination.
+
+[PDF page(s): 99 | Chapter: Viruses and major groups of living things | Topic: Class Monocotyledoneae]
+This class contains plants with one cotyledon. Examples of plants in this class include maize, sugarcane, wheat, millet, sisal, coconuts and banana plants.
+
+[PDF page(s): 99 | Chapter: Viruses and major groups of living things | Topic: Class Monocotyledoneae]
+(a) Flower parts normally occur in three or multiples of three. See Figure 5.22 (a).
+
+[PDF page(s): 99 | Chapter: Viruses and major groups of living things | Topic: Class Monocotyledoneae]
+(b) They have parallel leaf venation, as shown in Figure 5.22 (b).
+
+[PDF page(s): 99 | Chapter: Viruses and major groups of living things | Topic: Class Monocotyledoneae]
+The embryo of monocot seeds bears one cotyledon.
+
+[PDF page(s): 99 | Chapter: Viruses and major groups of living things | Topic: Class Monocotyledoneae]
+Monocot leaves are composed of an open or closed sheath which encloses the stem.
+
+[PDF page(s): 99 | Chapter: Viruses and major groups of living things | Topic: Class Monocotyledoneae]
+Their vascular bundles in stems are scattered, as shown in Figure 5.23 (a).
+
+[PDF page(s): 99 | Chapter: Viruses and major groups of living things | Topic: Class Monocotyledoneae]
+They have fibrous root system (Figure 5.23 (b)).
+
+[PDF page(s): 100 | Chapter: Viruses and major groups of living things | Topic: Class Dicotyledoneae]
+This class contains plants with two See Figure 5.24 (b).
+
+[PDF page(s): 100 | Chapter: Viruses and major groups of living things | Topic: Class Dicotyledoneae]
+(c) Their stems have vascular bundles which appear in a ring form, as shown in Figure 5.25 (a).
+
+[PDF page(s): 100 | Chapter: Viruses and major groups of living things | Topic: Class Dicotyledoneae]
+(d) They have tap root system, as shown in Figure 5.25 (b).
+
+[PDF page(s): 100 | Chapter: Viruses and major groups of living things | Topic: Class Dicotyledoneae]
+(f) Dicot plants have petioles that support the leaf.
+
+[PDF page(s): 100 | Chapter: Viruses and major groups of living things | Topic: Class Dicotyledoneae]
+(a) Floral parts are normally in four or five, or multiples of four or five. See Figure 5.24 (a).
+
+[PDF page(s): 101 | Chapter: Viruses and major groups of living things | Topic: Class Dicotyledoneae]
+Advantages of angiosperms (a) Angiosperms are important for the survival of humans and other animals. For humans, angiosperms provide foods, such as beans, rice, maize, sugarcane, and oranges. Some members of the grass family are used as food for livestock. They are habitat to many insects, birds and other animals.
+
+[PDF page(s): 101 | Chapter: Viruses and major groups of living things | Topic: Class Dicotyledoneae]
+Some angiosperms, such as cotton, flax, and hemp provide fibres that are raw matcrials in textile industries.
+
+[PDF page(s): 101 | Chapter: Viruses and major groups of living things | Topic: Class Dicotyledoneae]
+Angiosperms form ground cover which prevents soil erosion.
+
+[PDF page(s): 101 | Chapter: Viruses and major groups of living things | Topic: Class Dicotyledoneae]
+(f) Some plants such as roses, lilies, and hibiscus make the environment attractive.
+
+[PDF page(s): 101 | Chapter: Viruses and major groups of living things | Topic: Class Dicotyledoneae]
+They provide varieties of wood for furniture, paper, and building materials.
+
+[PDF page(s): 101 | Chapter: Viruses and major groups of living things | Topic: Class Dicotyledoneae]
+Disadvantages of angiosperms (a) Some angiosperms such as thorn apple, oleander, and milkweed are poisonous. When eaten by humans and other animals as they may cause death. Drugs___ derived angiosperms can be dangerous. For example, tobacco and caffeine can be addictive.
+
+[PDF page(s): 101 | Chapter: Viruses and major groups of living things | Topic: Class Dicotyledoneae]
+(c) Some angiosperms, such as star grass are weed plants, which compete with food crops leading to reduction of crop yield. Others are parasites to other plant species. For example, parasitic weeds in crops, such as mango, orange and cashew nut trees, and they cause serious loss of crop yield.
+
+[PDF page(s): 101 | Chapter: Viruses and major groups of living things | Topic: Class Dicotyledoneae]
+Some aquatic angiosperms, such as water hyacinth can colonise bodies and affect the ecosystem as well as hindering fishing activities.
+
+[PDF page(s): 101 | Chapter: Viruses and major groups of living things | Topic: Kingdom Animalia]
+Kingdom Animalia comprises wide varieties of animals. Animals vary greatly in their structure, morphology and the way their bodies function. Kingdom Animalia includes worms, insects, and higher animals. They are found in various habitats, such as on land, in oceans, and in freshwater.
+
+[PDF page(s): 101 | Chapter: Viruses and major groups of living things | Topic: Kingdom Animalia]
+General characteristics of animals (a) They are eukaryotes; therefore, they possess a clearly defined nucleus and their cells have membrane bound organelles.
+
+[PDF page(s): 101,102 | Chapter: Viruses and major groups of living things | Topic: Kingdom Animalia]
+(b) They are multicellular, that means they are made up of more than one (c) They depend on other organisms as a source of their food.
+
+[PDF page(s): 102 | Chapter: Viruses and major groups of living things | Topic: Kingdom Animalia]
+Most of the animals have high level of tissue differentiation and specialised body organs.
+
+[PDF page(s): 102 | Chapter: Viruses and major groups of living things | Topic: Kingdom Animalia]
+(h) and posterior ends, with oral and anal openings.
+
+[PDF page(s): 102 | Chapter: Viruses and major groups of living things | Topic: Kingdom Animalia]
+Distinctive features of animals (a) They depend on other organisms as source of food.
+
+[PDF page(s): 102 | Chapter: Viruses and major groups of living things | Topic: Kingdom Animalia]
+Most animals digest internally in the gut. Most animals are capable of locomotion; hence they can move from one place to another. Few animals, such as oysters are sessile. ' They are found attached on rocks and other hard surfaces. They are not capable of self-locomotion.
+
+[PDF page(s): 102 | Chapter: Viruses and major groups of living things | Topic: Kingdom Animalia]
+Give reasons why animals and plants are placed in different kingdoms.
+
+[PDF page(s): 103 | Chapter: Viruses and major groups of living things | Topic: Kingdom Animalia]
+(a) Phylum Platyhelminthes includes pork tapeworm (Taenia solium), beef tapeworm (Taenia saginata), liver flukes (Fasciola species), blood flukes (Schistosoma species) and planaria.
+
+[PDF page(s): 103 | Chapter: Viruses and major groups of living things | Topic: Kingdom Animalia]
+Phylum Nematoda, formerly known as Aschelminthes, includes ascanis, hookworms and filarial worms.
+
+[PDF page(s): 103 | Chapter: Viruses and major groups of living things | Topic: Kingdom Animalia]
+Members of the phylum Platyhelminthes are the flatworms and are commonly called platyhelminths. They can be free living or parasites.
+
+[PDF page(s): 103 | Chapter: Viruses and major groups of living things | Topic: Activity 5.12: Observing the external features of the flatworms]
+1. Using forceps pick a liver fluke, and tapeworm from preserving containers and put each in different petn dishes.
+
+[PDF page(s): 104 | Chapter: Viruses and major groups of living things | Topic: Activity 5.12: Observing the external features of the flatworms]
+They have dorso-ventrally flattened bodies. This is the reason why they are called flatworms.
+
+[PDF page(s): 104 | Chapter: Viruses and major groups of living things | Topic: Activity 5.12: Observing the external features of the flatworms]
+Most flatworms have _ only one opening that is the mouth. However, tapeworms lack both mouth and anus.
+
+[PDF page(s): 104 | Chapter: Viruses and major groups of living things | Topic: Activity 5.12: Observing the external features of the flatworms]
+They have no body cavity. A body cavily Is a space in an organism which holds and protects internal organs.
+
+[PDF page(s): 104 | Chapter: Viruses and major groups of living things | Topic: Activity 5.12: Observing the external features of the flatworms]
+Some members have hooks and suckers for attachment to the host. Such members include tapeworms and the liver fluke. See Figure 5.27. Some flatworms, such as planaria have hair-like structure called cilia on their outer body surface for locomotion.
+
+[PDF page(s): 104 | Chapter: Viruses and major groups of living things | Topic: Activity 5.12: Observing the external features of the flatworms]
+Few members, such as planaria are free living and inhabit freshwater, marine water and land. Most of its members, such as liver flukes and tapeworms are parasitic.
+
+[PDF page(s): 104 | Chapter: Viruses and major groups of living things | Topic: Activity 5.12: Observing the external features of the flatworms]
+They have specialised cells for excretion and osmoregulation called flame cells.
+
+[PDF page(s): 104 | Chapter: Viruses and major groups of living things | Topic: Activity 5.12: Observing the external features of the flatworms]
+They are hermaphrodites, meaning that they have both male and female reproductive organs. Hence, their reproduction can either be through self-fertilisation or crossfertilisation.
+
+[PDF page(s): 104 | Chapter: Viruses and major groups of living things | Topic: Activity 5.12: Observing the external features of the flatworms]
+They are dorso-ventrally flattened with ribbon or leaf-like body.
+
+[PDF page(s): 104 | Chapter: Viruses and major groups of living things | Topic: Activity 5.12: Observing the external features of the flatworms]
+If present, their digestive system is incomplete. The digestive tract has only a single opening which is the mouth.
+
+[PDF page(s): 105 | Chapter: Viruses and major groups of living things | Topic: Activity 5.12: Observing the external features of the flatworms]
+They have suckers, hooks, or both for attachment to the host.
+
+[PDF page(s): 105 | Chapter: Viruses and major groups of living things | Topic: Activity 5.12: Observing the external features of the flatworms]
+Some flatworms, such as planaria are scavengers, feeding on organic particles from dead bodies of other organisms.
+
+[PDF page(s): 105 | Chapter: Viruses and major groups of living things | Topic: Activity 5.12: Observing the external features of the flatworms]
+Some are used as biological specimens in the field of education and medicine. Examples of such flatworms include tapeworms and liver flukes.
+
+[PDF page(s): 105 | Chapter: Viruses and major groups of living things | Topic: Activity 5.12: Observing the external features of the flatworms]
+Parasitic flatworms can cause reduction in quality and amount of meat and milk produced by livestock due to infections. They can also cause stunted growth and even death in young animals.
+
+[PDF page(s): 105 | Chapter: Viruses and major groups of living things | Topic: Activity 5.12: Observing the external features of the flatworms]
+They cause general body weakness and frequent hunger in the hosts as they feed on digested nutrients from the hosts. Working animals, such as oxen cannot perform work to their full capacity if infected with a large number of parasitic flatworms. Parasitic flatworms can also cause loss of income due to costs incurred for treatment of diseases.
+
+[PDF page(s): 107 | Chapter: Viruses and major groups of living things | Topic: Activity 5.13: Observing external]
+Activity 5.13: Observing external features of roundworms Materials: Preserved specimen of ascaris (female and male), hand lens.
+
+[PDF page(s): 107 | Chapter: Viruses and major groups of living things | Topic: Activity 5.13: Observing external]
+Use forceps to pick up male and female specimens of ascaris from a preserving container and put them into separate petri dishes. Carefully observe the male and female ascaris specimens with a hand lens.
+
+[PDF page(s): 107 | Chapter: Viruses and major groups of living things | Topic: Activity 5.13: Observing external]
+Some nematodes are used as biological control agents to control pests, such as locusts and vectors, such as mosquitoes. Parasitic roundworms attack and eat varieties of caterpillars.
+
+[PDF page(s): 107 | Chapter: Viruses and major groups of living things | Topic: Activity 5.13: Observing external]
+Soil nematodes are important in recycling of nutrients, hence contributing to soil fertility.
+
+[PDF page(s): 107,108 | Chapter: Viruses and major groups of living things | Topic: Activity 5.13: Observing external]
+Disadvantages of nematodes (a) They cause diseases, such as elephantiasis or - bancroftian filariasis which affects the human lymphatic system. This results in accumulation of the lymph in legs, hands, mammary glands or scrotal sacs.
+
+[PDF page(s): 108 | Chapter: Viruses and major groups of living things | Topic: Activity 5.13: Observing external]
+(b) They cause ascariasis in humans and pigs. This may lead to obstruction of the gut and may also cause anaemia.
+
+[PDF page(s): 108 | Chapter: Viruses and major groups of living things | Topic: Activity 5.13: Observing external]
+The word Annelid is derived from a latin word "annclus" which means little ring. Thus, members of this phylum are known as ringed or segmented worms. Annelida is a large phylum comprising ragworms, peacock worms, leeches, and earthworms. Examples of annelids are shown in Figure 5.30.
+
+[PDF page(s): 108 | Chapter: Viruses and major groups of living things | Topic: Activity 5.13: Observing external]
+(f) They have a lip-like extension on the first segment above the mouth called prostomium.
+
+[PDF page(s): 108 | Chapter: Viruses and major groups of living things | Topic: Activity 5.13: Observing external]
+(g) They are commonly found in soil, freshwater, and marine environment while some species are parasitic.
+
+[PDF page(s): 108 | Chapter: Viruses and major groups of living things | Topic: Activity 5.13: Observing external]
+Distinctive features of annelids (a) Most annelids have _ hair-like structures called chaetae made up of chitin. These are used for locomotion.
+
+[PDF page(s): 109 | Chapter: Viruses and major groups of living things | Topic: Activity 5.14: Observing external features of the earthworm]
+Activity 5.14: Observing external features of the earthworm 3. Identify its external features, including its mouth, anus, clitellum, and chaeta. Compare the observed features with those depicted in Figure 5.31.
+
+[PDF page(s): 109 | Chapter: Viruses and major groups of living things | Topic: Activity 5.14: Observing external features of the earthworm]
+2. Using a hand lens, observe the specimen carefully to identify its external features.
+
+[PDF page(s): 109 | Chapter: Viruses and major groups of living things | Topic: Activity 5.14: Observing external features of the earthworm]
+Advantages of annelids (a) Some annelids improve soil aeration through burrowing and mixing up of soul layers. Earthworms play important role in improving soil aeration, hence maintaining soil fertility.
+
+[PDF page(s): 109 | Chapter: Viruses and major groups of living things | Topic: Activity 5.14: Observing external features of the earthworm]
+(b) They are used for commercial production of compost manure in the process known as vermicomposting.
+
+[PDF page(s): 110 | Chapter: Viruses and major groups of living things | Topic: Activity 5.14: Observing external features of the earthworm]
+Some annelids are used as bait in the fishing industry. Examples of annelids used as bait include earthworms and lugworms.
+
+[PDF page(s): 110 | Chapter: Viruses and major groups of living things | Topic: Activity 5.14: Observing external features of the earthworm]
+(d) They are used as source of nutritious food for some fish and birds. They are rich in proteins and vitamins. Some annelids are ecological decomposers; hence, they contribute to nutrient circulation in the ecosystems.
+
+[PDF page(s): 110 | Chapter: Viruses and major groups of living things | Topic: Activity 5.14: Observing external features of the earthworm]
+(f) They remove pollutants from the soil and clean the environment by transforming organic wastes during feeding.
+
+[PDF page(s): 110 | Chapter: Viruses and major groups of living things | Topic: Activity 5.14: Observing external features of the earthworm]
+(g) have considerable value as manure and they increase soil fertility.
+
+[PDF page(s): 110 | Chapter: Viruses and major groups of living things | Topic: Activity 5.14: Observing external features of the earthworm]
+Disadvantages of annelids (a) Some annelids damage young roots of the growing plants.
+
+[PDF page(s): 110 | Chapter: Viruses and major groups of living things | Topic: Activity 5.14: Observing external features of the earthworm]
+(b) Leeches are harmful to mammals, reptiles and fishes, because they suck blood from them.
+
+[PDF page(s): 110 | Chapter: Viruses and major groups of living things | Topic: Activity 5.14: Observing external features of the earthworm]
+Imagine you are walking around school farm and you come across someone who is killing earthworms. Educate that person the importance of earthworms.
+
+[PDF page(s): 110 | Chapter: Viruses and major groups of living things | Topic: Activity 5.14: Observing external features of the earthworm]
+The term Arthropoda originates from two Greek words, "arthron" meaning joint and meaning foot. Literally, arthropods are organisms with jointed appendages. Arthropods are the most successful animals on the earth. They are found almost in every habitat, including marine, freshwater, and terrestrial habitats. They vary widely in their habitats and feeding habits. Examples of arthropods include prawn, scorpion, tick, beetle, butterfly, crab, spider, centipede, millipede and grasshopper, as shown in Figure 5.32.
+
+[PDF page(s): 111 | Chapter: Viruses and major groups of living things | Topic: Activity 5.14: Observing external features of the earthworm]
+They have exoskeleton made up mostly of chitin. The exoskeleton serves different purposes, such as muscles attachment, support and protection against physical damage.
+
+[PDF page(s): 111 | Chapter: Viruses and major groups of living things | Topic: Activity 5.14: Observing external features of the earthworm]
+(c) They have segmented bodies. In most arthropods, the body is organised into three major regions. These regions are the head, thorax and abdomen. In some arthropods, such as arachnids and crustaceans, the thorax and head are fused together to form the cephalothorax. Therefore, these arthropods have two major body parts, namely cephalothorax and abdomen.
+
+[PDF page(s): 112 | Chapter: Viruses and major groups of living things | Topic: Activity 5.14: Observing external features of the earthworm]
+(d) They have jointed and paired appendages that may be modified in various ways to form structures, such as antennae, mouthparts, legs and reproductive organs.
+
+[PDF page(s): 112 | Chapter: Viruses and major groups of living things | Topic: Activity 5.14: Observing external features of the earthworm]
+(e) Their body plan is_ bilaterally symmetrical. This means, their bodies can be divided longitudinally into two equal parts through a central axis. (f) They have compound or simple eyes. (g) They have open circulatory system where blood is not confined to the blood vessels and heart only. Blood flows into the body cavity to reach various tissues and organs.
+
+[PDF page(s): 112 | Chapter: Viruses and major groups of living things | Topic: Activity 5.14: Observing external features of the earthworm]
+Distinctive features of arthropods (a) They have jointed appendages which serve different purposes, such as feeding, locomotion and sensation.
+
+[PDF page(s): 112 | Chapter: Viruses and major groups of living things | Topic: Activity 5.14: Observing external features of the earthworm]
+(b) They have segmented bodies organised into regions called tagmata.
+
+[PDF page(s): 112 | Chapter: Viruses and major groups of living things | Topic: Activity 5.14: Observing external features of the earthworm]
+(c) They have an exoskeleton made up of mostly of chitin.
+
+[PDF page(s): 112 | Chapter: Viruses and major groups of living things | Topic: Activity 5.14: Observing external features of the earthworm]
+Based on the presence of antennae, position and numbers of appendages, habitats, life histories and habits, arthropods are classified into five classes. These are class Crustacea which includes crabs and_ lobsters; class Arachnida which includes spiders and scorpions; class Chilopoda which includes centipedes; class Diplopoda ' which includes millipedes; and class Insecta which includes cockroaches, termites, and grasshoppers.
+
+[PDF page(s): 112 | Chapter: Viruses and major groups of living things | Topic: Activity 5.15: Observing the external structure of crab, spider, grasshopper, and millipede]
+Activity 5.15: Observing the external structure of crab, spider, grasshopper, and millipede Materials: Preserved specimens or pictures of crab, spider, grasshopper, and millipede, notebook, pen and hand lens Procedure 1. Using forceps, pick specimens from a preserving container and put them in a petri dish.
+
+[PDF page(s): 112 | Chapter: Viruses and major groups of living things | Topic: Activity 5.15: Observing the external structure of crab, spider, grasshopper, and millipede]
+2. Using a hand lens, observe the specimens carefully to identify their external features.
+
+[PDF page(s): 113 | Chapter: Viruses and major groups of living things | Topic: Activity 5.15: Observing the external structure of crab, spider, grasshopper, and millipede]
+They are used in_ biological control of pests. Some arthropods have been used effectively as predators to kill or control pests. For example, lady beetles are used to kill aphids. Aphids are the insect pests that transmit viruses to plants.
+
+[PDF page(s): 113 | Chapter: Viruses and major groups of living things | Topic: Activity 5.15: Observing the external structure of crab, spider, grasshopper, and millipede]
+Insects, such as bees and butterflies are useful in agriculture as they act as pollinators. Many plants depend on insects for pollination.
+
+[PDF page(s): 113 | Chapter: Viruses and major groups of living things | Topic: Activity 5.15: Observing the external structure of crab, spider, grasshopper, and millipede]
+Some arachnids, such as mites play an important role in the formation of humus from decomposed leaf litter and wood.
+
+[PDF page(s): 113,114 | Chapter: Viruses and major groups of living things | Topic: Activity 5.15: Observing the external structure of crab, spider, grasshopper, and millipede]
+Disadvantages of arthropods causing pain, small wounds and blisters.
+
+[PDF page(s): 114 | Chapter: Viruses and major groups of living things | Topic: Activity 5.15: Observing the external structure of crab, spider, grasshopper, and millipede]
+Some arthropods destroy crops and other properties. For example, burrowing diplopods can cause some damage to the roots or germinating seeds, mites attack food crops (on farm and in storage) and timber.
+
+[PDF page(s): 114 | Chapter: Viruses and major groups of living things | Topic: Activity 5.15: Observing the external structure of crab, spider, grasshopper, and millipede]
+Some arthropods, such as scorpion, wasps and bees can cause painful bites and stings. Stinging insects that live in colonies can cause significant injury and even death. Some insects are vectors of animal and plant diseases. For example, mosquitoes carry Plasmodium spp. which cause malaria and tsetse flies carry Trypanosoma spp.
+
+[PDF page(s): 114 | Chapter: Viruses and major groups of living things | Topic: Activity 5.15: Observing the external structure of crab, spider, grasshopper, and millipede]
+(e) Some arthropods are parasites to mammals and other vertebrates. For examples ticks, jiggers, and bedbugs.
+
+[PDF page(s): 114 | Chapter: Viruses and major groups of living things | Topic: Activity 5.15: Observing the external structure of crab, spider, grasshopper, and millipede]
+This phylum comprises animals with a high degree of body organisation.
+
+[PDF page(s): 115 | Chapter: Viruses and major groups of living things | Topic: Activity 5.16: Observing the external features of fish, chicken, frog, lizard and rat or mouse]
+General characteristics of chordates (a) They occupy both terrestrial and aquatic habitats.
+
+[PDF page(s): 115 | Chapter: Viruses and major groups of living things | Topic: Activity 5.16: Observing the external features of fish, chicken, frog, lizard and rat or mouse]
+Most chordates have a complete with openings, the mouth and anus. Most chordates have a ventral heart.
+
+[PDF page(s): 115 | Chapter: Viruses and major groups of living things | Topic: Activity 5.16: Observing the external features of fish, chicken, frog, lizard and rat or mouse]
+A dorsal hollow tubular nervous tissue known as nerve cord that is found inside vertebral column.
+
+[PDF page(s): 115 | Chapter: Viruses and major groups of living things | Topic: Activity 5.16: Observing the external features of fish, chicken, frog, lizard and rat or mouse]
+(d) Post anal tail. In humans it is only present during embryonic stages.
+
+[PDF page(s): 115 | Chapter: Viruses and major groups of living things | Topic: Activity 5.16: Observing the external features of fish, chicken, frog, lizard and rat or mouse]
+Advantages of chordates (a) Chordates, such as fish, chicken, goats, sheep, cattle and buffalo are used as source of food to human beings and other animals.
+
+[PDF page(s): 115 | Chapter: Viruses and major groups of living things | Topic: Activity 5.16: Observing the external features of fish, chicken, frog, lizard and rat or mouse]
+(b) Their excreta in the form of faeces or dung are used as organic manure which adds nutrients to the soil, thus improving soil fertility.
+
+[PDF page(s): 116 | Chapter: Viruses and major groups of living things | Topic: Activity 5.16: Observing the external features of fish, chicken, frog, lizard and rat or mouse]
+Their excreta are used for production of biogas which is used as a source of energy.
+
+[PDF page(s): 116 | Chapter: Viruses and major groups of living things | Topic: Activity 5.16: Observing the external features of fish, chicken, frog, lizard and rat or mouse]
+Chordate derived products such as fish oil and shark collagen are used to treat diseases in human beings and livestock. Snake skin, tortoise shell and shark fins are used in traditional medicine.
+
+[PDF page(s): 116 | Chapter: Viruses and major groups of living things | Topic: Activity 5.16: Observing the external features of fish, chicken, frog, lizard and rat or mouse]
+Some chordates are dangerous because they can attack humans, causing injury or death. Examples of such chordates include crocodiles, sharks, lions, leopards, buffalo, elephants and hyenas. Some chordates are vectors of diseases. For example, birds can transmit viruses that cause bird flu. Cats and rats can spread ficas which transmit bacteria and other pathogens that cause diseases, such as plague. Infected dogs can also transmit rabies, which is a viral disease of dogs and can also infect humans.
+
+[PDF page(s): 116 | Chapter: Viruses and major groups of living things | Topic: Activity 5.16: Observing the external features of fish, chicken, frog, lizard and rat or mouse]
+Some chordates are crop pests, destroying crops in storage or in the field. Examples of such chordates include birds, rats, monkeys, and pigs.
+
+[PDF page(s): 116 | Chapter: Viruses and major groups of living things | Topic: Activity 5.16: Observing the external features of fish, chicken, frog, lizard and rat or mouse]
+Some snakes, frogs, toads and newts produce toxins which cause skin irritation and even death to human beings.
+
+[PDF page(s): 120 | Chapter: Nutrition in plants | Topic: Nutrition in plants]
+Plants are organisms that can manufacture their-ovwn food, and therefore are called autotrophs. Other organisms that can manufacture their own food include some bacteria and protoctists. Although plants' can make their own food, they require some chemical elements from the environment.
+
+[PDF page(s): 120 | Chapter: Nutrition in plants | Topic: Concept of nutrition]
+Nutrition is the process of feeding and utilising of food for energy provision, growth, development, repair and maintenance of the overall body health.
+
+[PDF page(s): 120 | Chapter: Nutrition in plants | Topic: Concept of nutrition]
+Autotrophic nutrition is a type of nutrition in which organisms manufacture their own food using available energy sources.
+
+[PDF page(s): 120,121 | Chapter: Nutrition in plants | Topic: Concept of nutrition]
+Anorganism that manufactures its own food is called an autotroph. The term 'autotroph' originates from two Greek words 'autos' which means 'self* and 'trophy' which means 'feed'; hence 'autotrophy' means 'self-feeding'. This means that autotrophs are organisms that are capable of making their own food for their own use and for other organisms. Examples of autotrophic organisms include green plants, algae, and some bacteria such as cyanobacteria. The autotrophs can be divided into two groups based on how they obtain their energy. These are chemoautotrophs and photoautotrophs. Chemoautotrophs are organisms that , obtain their energy from chemical substances like hydrogen sulphide, iron, methane, and ammonia. They utilise these chemicals to make their own food in the form of carbohydrates through a process called chemosynthesis. Examples of chemoautotrophs are some bacteria (archaebacteria) that live in harsh environments. Such environments include the deep sea and around volcanic sites where there is no sunlight and where many other organisms cannot survive. Photoautotrophs are organisms that obtain their energy from sunlight in order to make their own food. They make their food using water and carbon dioxide in the presence of chlorophyll and sunlight through a process called photosynthesis.
+
+[PDF page(s): 121 | Chapter: Nutrition in plants | Topic: Photosynthesis]
+Photosynthesis is the process by which green plants, some bacteria and protoctists make their own food using water and carbon dioxide in the presence of sunlight energy. Organisms that make their own food are called primary producers or autotrophs. They are the primary source of food for all other organisms. During the process of photosynthesis, six molecules of carbon dioxide and twelve molecules of water combine to form one molecule of glucose (a simple sugar), six molecules of water, and six molecules of oxygen. The leaf is the main site for photosynthesis in plants. However, photosynthesis can take place in other green parts of the plant, such as stem. The following chemical equation represents the photosynthesis process in plants.
+
+[PDF page(s): 121 | Chapter: Nutrition in plants | Topic: Photosynthesis]
+Photosynthesis produces a six-carbon sugar molecule (a hexose) called glucose. Plants convert these hexose sugars into other carbohydrates, such as complex sugars, starch and cellulose. Plants are also capable of converting hexose sugars into other organic compounds, such as proteins and tats. The food formed by plants during photosynthesis is stored in the form of starch.
+
+[PDF page(s): 122 | Chapter: Nutrition in plants | Topic: Photosynthesis]
+Biologists often use the presence of starch in some parts of plants as an indication that photosynthesis has taken place.
+
+[PDF page(s): 122 | Chapter: Nutrition in plants | Topic: Photosynthesis]
+The internal and external structures of a leaf make it well adapted for photosynthesis. In most plants, the leaf is the main site for photosynthesis, although some plants, such as cactus (plural is cacti) use their stems for photosynthesis. The leaf structure provides a very efficient means for absorbing carbon dioxide and sunlight.
+
+[PDF page(s): 122 | Chapter: Nutrition in plants | Topic: External structure of a leaf]
+The external features of a leaf can be viewed using either a hand lens or with the naked eye. Figure 6.1 shows the external structure of a leaf.
+
+[PDF page(s): 122 | Chapter: Nutrition in plants | Topic: External structure of a leaf]
+The petiole or leaf stalk attaches the leaf to the branch or stem. It keeps the lamina in a position that will enable it to get maximum amount of sunlight. The lamina or leaf blade is the expanded portion of a leaf. It has a large surface area. This maximizes the absorption of sunlight energy and carbon dioxide. The lamina is also thin so that carbon dioxide gas can diffuse and sunlight energy can penetrate over a short distance to reach cells. The mid-rib and veins contain vascular tissues, namely xylem and phloem. Xylem transports water and dissolved minerals while phloem transports manufactured food in the plants.
+
+[PDF page(s): 122 | Chapter: Nutrition in plants | Topic: Activity 6.1: Observing the external features of a leaf]
+Activity 6.1: Observing the external features of a leaf Materials: Leaves from various plants, hand lens, pen or pencil, notebook and rubber Caution Be careful not to collect hairy or thorny leaves.
+
+[PDF page(s): 122 | Chapter: Nutrition in plants | Topic: Activity 6.1: Observing the external features of a leaf]
+State the observed differences in Structure among the variety of leaves.
+
+[PDF page(s): 123 | Chapter: Nutrition in plants | Topic: Internal structure of a leaf]
+The internal features of a leaf can be viewed under a microscope. Figure 6.2 shows the internal structure of a leaf. The leaf has lower and upper parts which are covered by a thin waxy layer called cuticle. On the upper part of the leaf is the upper epidermis while the lower epidermis is located on the lower part of the leaf.
+
+[PDF page(s): 123 | Chapter: Nutrition in plants | Topic: Chloroplasts]
+The mesophyll tissue is divided into two parts, namely the palisade and spongy mesophyll. The palisade mesophyll cells are usually tightly packed. The spongy mesophyll has loosely packed cells. It also consists of air spaces and vascular tissues which are made up of xylem and phloem cells, as shown in Figure 6.2.
+
+[PDF page(s): 124 | Chapter: Nutrition in plants | Topic: Chloroplasts]
+The cuticle: This is the outermost transparent and waxy layer of the leaf. It allows light to penetrate into the photosynthetic cells. It also protects the leaf from injury, pests, and excessive loss of moisture. In order to allow gaseous exchange, there is no cuticle on the stomata.
+
+[PDF page(s): 124 | Chapter: Nutrition in plants | Topic: Chloroplasts]
+The epidermis: This is the outermost layer of cells found on both lower and upper surfaces of a leaf. It is transparent and only one cell is thick, hence it allows sunlight to penetrate the leaf easily. The epidermis has pores called stomata.
+
+[PDF page(s): 124 | Chapter: Nutrition in plants | Topic: Chloroplasts]
+Stomata: Stomata (singular is stoma) are small pores in the epidermis. They © allow oxygen and carbon dioxide to diffuse in and out of the leaf.
+
+[PDF page(s): 124 | Chapter: Nutrition in plants | Topic: Chloroplasts]
+Mesophyll: This is made up of palisade layer and spongy layer (See Figure 6.2). The palisade mesophyll is made up of cells that are elongated and arranged at right angles to the surface of the leaf. It is found just below the upper epidermis. Being near the upper epidermis, the palisade cells are exposed to maximum sunlight. This enables the cells to absorb maximum amount of sunlight energy. The spongy mesophyll is just above the lower epidermis. It is a loosely constructed layer of irregularly shaped cells separated by large intercellular air spaces that connect with each other and linked to the atmosphere through the stomata pores. The air spaces in the spongy mesophyll provide an immediate source of carbon dioxide.
+
+[PDF page(s): 124 | Chapter: Nutrition in plants | Topic: Activity 6.2: Investigating the internal]
+Materials: Prepared slide of a transverse section of a leaf, microscope, notebook, and pencil or pen Procedure 1. Mount the prepared slide on the microscope.
+
+[PDF page(s): 124 | Chapter: Nutrition in plants | Topic: Activity 6.2: Investigating the internal]
+Photosynthesis takes place in cell organelles known as chloroplasts. These are mostly found in the green leaves. Chloroplasts contain chlorophyll that is responsible for trapping sunlight energy that is used during photosynthesis. Photosynthesis takes place in two stages, namely light reaction and dark reaction.
+
+[PDF page(s): 125 | Chapter: Nutrition in plants | Topic: Activity 6.2: Investigating the internal]
+The light reaction or light dependent reaction stage This stage takes place in specialised structures of the chloroplast called grana. The grana (singular is granum) contain chlorophyll that absorbs light energy from the sun. The light dependent reaction changes light energy into chemical energy. The formed energy is stored in a chemical compound called ATP (Adenosine Triphosphate). This energy is used in the dark reaction stage of photosynthesis.
+
+[PDF page(s): 125 | Chapter: Nutrition in plants | Topic: Activity 6.2: Investigating the internal]
+The hydroxyl ions undergo further reactions to produce water and oxygen. Some oxygen is released into the atmosphere. The rest of the oxygen is used for respiration in the plant. Hydrogen ions are used in the dark reaction stage to synthesise food together with carbon dioxide from the air.
+
+[PDF page(s): 125 | Chapter: Nutrition in plants | Topic: Activity 6.2: Investigating the internal]
+The dark reaction or light independent reaction stage This stage takes place in the stroma in the absence of light. The stroma is a colourless matrix of fine material found in the chloroplast.
+
+[PDF page(s): 125 | Chapter: Nutrition in plants | Topic: Activity 6.3: An experiment to]
+Materials: A leaf, absolute ethanol, iodine solution, source of heat. test tube, beaker, dropper, forceps, water, white tile, cotton wool, notebook, and pencil Procedure ].
+
+[PDF page(s): 125 | Chapter: Nutrition in plants | Topic: Activity 6.3: An experiment to]
+2. Put the leaf in boiling water for 2-3 minutes, as shown in Figure 6.3. This stops further chemical reactions in the leaf because boiling kills the leaf cells.
+
+[PDF page(s): 126 | Chapter: Nutrition in plants | Topic: Activity 6.3: An experiment to]
+3. Put the boiled leaf in the test tube containing absolute ethanol.
+
+[PDF page(s): 126 | Chapter: Nutrition in plants | Topic: Activity 6.3: An experiment to]
+Do not heat absolute ethanol directly because it is highly flammable. Cover the test tube with cotton wool.
+
+[PDF page(s): 126 | Chapter: Nutrition in plants | Topic: Activity 6.3: An experiment to]
+4. Remove the leaf from the absolute ethanol and rinse it in warm water. The water softens the leaf.
+
+[PDF page(s): 126 | Chapter: Nutrition in plants | Topic: Activity 6.3: An experiment to]
+Note: The blue-black colour indicates the presence of starch.
+
+[PDF page(s): 126 | Chapter: Nutrition in plants | Topic: Activity 6.4: An experiment to determine the importance of carbon dioxide in photosynthesis]
+Materials: Conical flasks, thread, corks, soda lime, water, iodine solution, dropper.
+
+[PDF page(s): 126 | Chapter: Nutrition in plants | Topic: Activity 6.4: An experiment to determine the importance of carbon dioxide in photosynthesis]
+1. Place the potted plant in dark place for at least 24 hours to destarch its leaves.
+
+[PDF page(s): 126 | Chapter: Nutrition in plants | Topic: Activity 6.4: An experiment to determine the importance of carbon dioxide in photosynthesis]
+2. Enclose a leaf (A) in a conical flask containing soda lime, as shown in Figure 6.5. This leaf will not have a supply of carbon dioxide from the air because soda lime absorbs carbon dioxide.
+
+[PDF page(s): 126 | Chapter: Nutrition in plants | Topic: Activity 6.4: An experiment to determine the importance of carbon dioxide in photosynthesis]
+3. Enclose a second leaf (B) in a conical flask containing some water.
+
+[PDF page(s): 127 | Chapter: Nutrition in plants | Topic: Activity 6.5: An caperiment to determine whether chlorophyll is necessary for photosynthesis]
+Place the plant in sufficient light for 6 hours at room temperature. Remove the two leaves (leaf A and B) from flasks.
+
+[PDF page(s): 127 | Chapter: Nutrition in plants | Topic: Activity 6.5: An caperiment to determine whether chlorophyll is necessary for photosynthesis]
+Test for starch by using standard procedures as in Activity 6.3.
+
+[PDF page(s): 127 | Chapter: Nutrition in plants | Topic: Activity 6.5: An caperiment to determine whether chlorophyll is necessary for photosynthesis]
+Compare the stain patterns with the described colour map.
+
+[PDF page(s): 127 | Chapter: Nutrition in plants | Topic: Activity 6.5: An caperiment to determine whether chlorophyll is necessary for photosynthesis]
+5. Record your observations and then share with your teacher.
+
+[PDF page(s): 128 | Chapter: Nutrition in plants | Topic: Activity 6.6: An experiment to determine whether sunlight is necessary]
+1. Place the potted plant in a dark place for 24 hours to destarch its leaves.
+
+[PDF page(s): 128 | Chapter: Nutrition in plants | Topic: Activity 6.6: An experiment to determine whether sunlight is necessary]
+2. Use manila card (opaque paper) and paper clips to cover the upper and lower epidermis of one leaf as shown in Figure 6.7.
+
+[PDF page(s): 128 | Chapter: Nutrition in plants | Topic: Activity 6.6: An experiment to determine whether sunlight is necessary]
+3. Put the plant in bright sunlight for 6 hours.
+
+[PDF page(s): 128 | Chapter: Nutrition in plants | Topic: Activity 6.6: An experiment to determine whether sunlight is necessary]
+4. Detach the leaf that has been covered by manila card from the plant.
+
+[PDF page(s): 128 | Chapter: Nutrition in plants | Topic: Activity 6.6: An experiment to determine whether sunlight is necessary]
+5. Remove the paper clips and manila card.
+
+[PDF page(s): 128 | Chapter: Nutrition in plants | Topic: Activity 6.6: An experiment to determine whether sunlight is necessary]
+The above experiments have shown that chlorophyll, water, carbon dioxide, and sunlight are necessary for photosynthesis. The process of photosynthesis cannot take place in the absence of any of these. If sunlight or carbon dioxide are in low supply, the rate of photosynthesis will decrease. In addition, magnesium and iron elements are essential for the production of chlorophyll.
+
+[PDF page(s): 128 | Chapter: Nutrition in plants | Topic: Activity 6.7: An experiment to verify that photosynthesis produces oxygen]
+1. Put the pond weed in a beaker containing water. Put one spatula of sodium hydrogen carbonate in the water. This serves as a source of carbon dioxide.
+
+[PDF page(s): 128 | Chapter: Nutrition in plants | Topic: Activity 6.7: An experiment to verify that photosynthesis produces oxygen]
+2. Put a plant under a funnel and collect the bubbles in an inverted test tube, as shown in Figure 6.8.
+
+[PDF page(s): 129 | Chapter: Nutrition in plants | Topic: Activity 6.7: An experiment to verify that photosynthesis produces oxygen]
+3. Leave the set-up exposed to the sunlight for 6 hours.
+
+[PDF page(s): 129 | Chapter: Nutrition in plants | Topic: Activity 6.7: An experiment to verify that photosynthesis produces oxygen]
+5. Open the test tube slightly but quickly and introduce a glowing splint.
+
+[PDF page(s): 129 | Chapter: Nutrition in plants | Topic: Importance of photosynthesis]
+Photosynthesis is a vital process for the continuous survival of plants and other organisms on earth. The importance of photosynthesis includes production of oxygen, reduction of atmospheric carbon dioxide, conversion of solar energy into chemical energy, and production of food.
+
+[PDF page(s): 129 | Chapter: Nutrition in plants | Topic: Importance of photosynthesis]
+Production of oxygen Photosynthesis produces oxygen. This replenishes the atmospheric oxygen that has been used during burning, respiration, rusting, and other processes. All aerobic organisms require oxygen for respiration.
+
+[PDF page(s): 129,130 | Chapter: Nutrition in plants | Topic: Importance of photosynthesis]
+Reduction of atmospheric carbon dioxide The process of photosynthesis uses carbon dioxide from the atmosphere. This carbon dioxide, since it is converted process reduces atmospheric into carbohydrate in the presence of water, sunlight, and chlorophyll. Being a by-product of respiration, carbon dioxide is harmful if excessive amounts accumulate in the atmosphere. The accumulated carbon dioxide forms a layer, which traps heat escaping from the earth's surface and re-radiates it back to the earth's surface, thus causing global warming.
+
+[PDF page(s): 130 | Chapter: Nutrition in plants | Topic: Importance of photosynthesis]
+Conversion of solar energy into chemical energy Photosynthesis converts - sunlight energy into chemical energy. The sun is the primary source of all forms of energy used in life processes. This energy is used by plants as well as animals. It is made available to living things through photosynthesis. Animals obtain cnergy by feeding on plants or animals that eat plants. Thus, sunlight energy is converted into chemical energy that is stored in organic food molecules. The energy stored in organic food molecules is then released into the cells during respiration. This energy is used in life processes, such as movement, reproduction, sensitivity, growth, and excretion.
+
+[PDF page(s): 130 | Chapter: Nutrition in plants | Topic: Importance of photosynthesis]
+Production of food Photosynthesis produces food for the plants. Some animals, such as cattle, goats, and zebra depend directly on plants as their source of food. Such animals are called herbivores. Other animals called carnivores, such as lions, hyenas, and leopards feed directly on herbivores by killing and eating them. Animals, such as human beings and monkeys depend on both plants and animals as their source of food. These are called omnivores.
+
+[PDF page(s): 130 | Chapter: Nutrition in plants | Topic: Importance of photosynthesis]
+The extra food produced by plants is stored in various plant organs. The stored food is used by the plants during adverse conditions, such as drought when the plant cannot synthesise adequate amounts of food. The underground storage organs of the plants are formed from modified stems, leaves or roots. There are several types of underground storage organs, such as bulbs, tubers, roots, corms, and rhizomes.
+
+[PDF page(s): 130 | Chapter: Nutrition in plants | Topic: Importance of photosynthesis]
+Bulb: This is an underground storage organ formed from the modification of the plant stem and leaves. An onion is an example of a bulb, as shown in Figure 6.9.
+
+[PDF page(s): 131 | Chapter: Nutrition in plants | Topic: Importance of photosynthesis]
+(a) (b) Figure 6.9: Onion bulb (a) whole (b) cut in half Tuber: This is a fleshy storage organ formed from either a stem or a root. An examples of a stem tuber is Irish potato while an example of a the root tuber is sweet potato (See Figure 6.10).
+
+[PDF page(s): 131 | Chapter: Nutrition in plants | Topic: Importance of photosynthesis]
+Taproot: Some taproots such as those of carrot, sugar beet, and beetroot are specialised for food storage (See Figures 6.11).
+
+[PDF page(s): 131 | Chapter: Nutrition in plants | Topic: Importance of photosynthesis]
+Corm: This is an underground storage organ formed from the plant stem. It is a mass of solid tissues with a dry papery cover made of modificd Icaves.
+
+[PDF page(s): 131,132 | Chapter: Nutrition in plants | Topic: Importance of photosynthesis]
+Examples of corms are yams, cocoyams and crocuses (See Figure 6.12). (a) (b) (c) cocoyam (b) crocus Rhizome: A rhizome is a swollen underground horizontally on the surface or just below the surface. An example is ginger, as shown in Figure 6.13.
+
+[PDF page(s): 132 | Chapter: Nutrition in plants | Topic: Essential and non-essential elements in plants]
+There are many chemical elements which are known to be important for plant growth and development.
+
+[PDF page(s): 132 | Chapter: Nutrition in plants | Topic: Essential and non-essential elements in plants]
+The plant cannot complete its life cycle without them. These include nickel (Ni), carbon (C), hydrogen (H), oxygen (O), calcium (Ca), iron (Fe), manganese (Mn), potassium (K), (Mg), sulphur (S), boron (B), copper (Cu), zinc (Zn), molybdenum (Mo), and chlorine (Cl).
+
+[PDF page(s): 132,133 | Chapter: Nutrition in plants | Topic: Essential and non-essential elements in plants]
+The essential elements can also be divided into two groups, which are macroelements and miucroelements. The macroelements are those elements that are required by plants in relatively large amounts.
+
+[PDF page(s): 133,134 | Chapter: Nutrition in plants | Topic: Essential and non-essential elements in plants]
+Nitrogen Obtained from commercial fertilisers and from the air.
+
+[PDF page(s): 134 | Chapter: Nutrition in plants | Topic: Essential and non-essential elements in plants]
+Each mineral element has a specific function in the plant body. Some are used in the formation of building materials for proteins and carbohydrates in plants while others play important roles in other metabolic activities of the plant. The deficiency of such elements will eventually affect plant growth and metabolic activitics. Table 6.2 shows the functions, signs of deficiency, and effects of excess macroelements in plants.
+
+[PDF page(s): 139 | Chapter: Nutrition in plants | Topic: Activity 6.8: Investigating the effects of mineral elements on plant growth]
+Plant the same types of seeds in all pots or tins.
+
+[PDF page(s): 139 | Chapter: Nutrition in plants | Topic: Activity 6.8: Investigating the effects of mineral elements on plant growth]
+Your teacher will explain what is in each type of fertiliser (for example, 'NPK' has Nitrogen, Phosphorus and _ Potassium) and the proper amounts of each type of fertiliser required by the plants.
+
+[PDF page(s): 139 | Chapter: Nutrition in plants | Topic: Activity 6.8: Investigating the effects of mineral elements on plant growth]
+(a) Do not put any fertiliser in the first pot or tin.
+
+[PDF page(s): 139 | Chapter: Nutrition in plants | Topic: Activity 6.8: Investigating the effects of mineral elements on plant growth]
+Put adequate amounts of fertiliser in the second pot or tin.
+
+[PDF page(s): 139 | Chapter: Nutrition in plants | Topic: Activity 6.8: Investigating the effects of mineral elements on plant growth]
+Put excess amounts of fertiliser in the third pot or tin.
+
+[PDF page(s): 139 | Chapter: Nutrition in plants | Topic: Activity 6.8: Investigating the effects of mineral elements on plant growth]
+Water all experimental pots or tins every morning and evening with the same amount of water for a period of 30 days.
+
+[PDF page(s): 140 | Chapter: Nutrition in plants | Topic: Activity 6.8: Investigating the effects of mineral elements on plant growth]
+Photosynthesis is the process by which green plants, some bacteria and some protoctists make their own food using carbon dioxide and water in the presence of sunlight.
+
+[PDF page(s): 140 | Chapter: Nutrition in plants | Topic: Photosynthesis]
+(a) Waxy transparent cuticle (b) Thin epidermis with stomata (c) Palisade cells with chloroplasts (d) Palisade cells positioned just below the upper epidermis (e) Spongy mesophyll with air space (f) Veins that have vascular tissue (g) Broad flat lamina (h) Petiole to attach the leaf to the stem or branch at an appropriate angle to access sunlight Photosynthesis involves two stages, namely the light reaction stage and the dark reaction stage.
+
+[PDF page(s): 140 | Chapter: Nutrition in plants | Topic: Photosynthesis]
+During the light reaction stage, sunlight causes the production of ATP and splitting of water molecules into hydrogen and hydroxyl ions. This reaction is called photolysis.
+
+[PDF page(s): 140 | Chapter: Nutrition in plants | Topic: Photosynthesis]
+In the dark reaction stage, carbon dioxide and hydrogen ions combine to form glucose. This reaction is called carbon dioxide fixation. Glucose is later used to make starch, proteins and lipids.
+
+[PDF page(s): 140 | Chapter: Nutrition in plants | Topic: Photosynthesis]
+Plants require both macroelements and microelements to survive.
+
+[PDF page(s): 140 | Chapter: Nutrition in plants | Topic: Photosynthesis]
+The macroelements include nitrogen, phosphorus, potassium, sulphur, calcium, and magnesium.
+
+[PDF page(s): 140 | Chapter: Nutrition in plants | Topic: Photosynthesis]
+The microelements include boron, copper, iron, chlorine, manganese, molybdenum, and zinc.
+
+[PDF page(s): 140 | Chapter: Nutrition in plants | Topic: Photosynthesis]
+Lack of the necessary elements affects plant growth and crop yields. However, excessive amounts have negative effects. Plants should get optimum amount of minerals.

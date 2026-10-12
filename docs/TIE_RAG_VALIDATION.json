@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-10",
+  "flutter_tests_passed": 9,
+  "changed_services_screens_tests_analysis": "No issues found",
+  "whole_project_analysis": "No errors; two pre-existing deprecated ColorScheme.background infos",
+  "native_vector_test": "Passed on Linux with synthetic 3D vectors: cosine search, threshold, upsert, provenance, reopen persistence, dimension and profile rejection",
+  "apk": "build/app/outputs/flutter-apk/app-arm64-v8a-debug.apk",
+  "apk_bytes": 138391152,
+  "apk_sha256": "8127a2037fc3df2fe2983465e50ad9dad3be40c7bf429776d52904fb0f982b4f",
+  "apk_abis": [
+    "arm64-v8a"
+  ],
+  "packaged_corpus": {
+    "biology": 128,
+    "chemistry": 109,
+    "physics": 214
+  },
+  "packaged_corpus_sha256_valid": true,
+  "quarantined_corpus_packaged": false,
+  "on_device_gemma_generation": "Not tested: no connected Android device",
+  "real_corpus_embeddings": "Created on the phone during first-time setup; not generated during host tests",
+  "accuracy_and_latency": "Not measured with real models; similarity threshold 0.35 is uncalibrated"
+}

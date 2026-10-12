@@ -1,0 +1,128 @@
+{
+  "structural_checks": "passed",
+  "formula_preservation": "passed",
+  "verified_example_arithmetic": "passed",
+  "english_lexical_probes": "passed",
+  "chunks": 214,
+  "verified_chunks": 14,
+  "chapter_counts": {
+    "Introduction to Physics": 29,
+    "Measurement": 33,
+    "Introduction to force": 16,
+    "Density and relative density": 14,
+    "Sinking and floating": 26,
+    "Mechanical properties of matter": 17,
+    "Pressure": 28,
+    "Linear motion": 24,
+    "Work, energy and power": 27
+  },
+  "words_including_overlap": 30798,
+  "probes": [
+    {
+      "probe": "Physics definition",
+      "matching_evidence_ids": [
+        "physics_f1_0001",
+        "physics_f1_0002"
+      ],
+      "lexical_top5_ids": [
+        "physics_f1_0001",
+        "physics_f1_0002"
+      ]
+    },
+    {
+      "probe": "Density formula",
+      "matching_evidence_ids": [
+        "physics_f1_0080"
+      ],
+      "lexical_top5_ids": [
+        "physics_f1_0080"
+      ]
+    },
+    {
+      "probe": "Relative density",
+      "matching_evidence_ids": [
+        "physics_f1_0086"
+      ],
+      "lexical_top5_ids": [
+        "physics_f1_0086",
+        "physics_f1_0088"
+      ]
+    },
+    {
+      "probe": "Hooke law",
+      "matching_evidence_ids": [
+        "physics_f1_0122"
+      ],
+      "lexical_top5_ids": [
+        "physics_f1_0122",
+        "physics_f1_0203"
+      ]
+    },
+    {
+      "probe": "Pressure",
+      "matching_evidence_ids": [
+        "physics_f1_0137"
+      ],
+      "lexical_top5_ids": [
+        "physics_f1_0137"
+      ]
+    },
+    {
+      "probe": "Liquid pressure",
+      "matching_evidence_ids": [
+        "physics_f1_0144"
+      ],
+      "lexical_top5_ids": [
+        "physics_f1_0144"
+      ]
+    },
+    {
+      "probe": "Acceleration",
+      "matching_evidence_ids": [
+        "physics_f1_0171"
+      ],
+      "lexical_top5_ids": [
+        "physics_f1_0171",
+        "physics_f1_0180",
+        "physics_f1_0176",
+        "physics_f1_0172"
+      ]
+    },
+    {
+      "probe": "Equations of motion",
+      "matching_evidence_ids": [
+        "physics_f1_0180"
+      ],
+      "lexical_top5_ids": [
+        "physics_f1_0180",
+        "physics_f1_0183",
+        "physics_f1_0168"
+      ]
+    },
+    {
+      "probe": "Kinetic energy",
+      "matching_evidence_ids": [
+        "physics_f1_0197"
+      ],
+      "lexical_top5_ids": [
+        "physics_f1_0197",
+        "physics_f1_0199"
+      ]
+    },
+    {
+      "probe": "Power",
+      "matching_evidence_ids": [
+        "physics_f1_0211"
+      ],
+      "lexical_top5_ids": [
+        "physics_f1_0211",
+        "physics_f1_0214"
+      ]
+    }
+  ],
+  "vector_search_tested": false,
+  "kiswahili_retrieval_tested": false,
+  "gemma_generation_tested": false,
+  "latency_measured": false,
+  "fully_manually_verified": false
+}
