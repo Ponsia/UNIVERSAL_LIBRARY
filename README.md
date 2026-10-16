@@ -38,6 +38,19 @@ https://huggingface.co/bartowski/google_gemma-3n-E2B-it-GGUF/resolve/main/google
 
 # UNIVERSAL_LIBRARY
 
+## Local credentials
+
+Copy `.env.example` to `.env`, then add your rotated `MESEJI_API_KEY` and
+`HF_TOKEN` values. Keep `.env` private; it is ignored by Git. Start the app with:
+
+```sh
+flutter run --dart-define-from-file=.env
+```
+
+These values are compiled into the mobile app and can be extracted from an
+installed build. For production, keep service credentials on a backend.
+
+
 
 
 ## Getting started
