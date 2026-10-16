@@ -1,6 +1,15 @@
 HEAD
 # unilib
 
+## Conceptual diagram na maelezo kwa Kiswahili
+
+![UniLib conceptual diagram](docs/presentation/UniLib_Conceptual_Diagram_SW.png)
+
+Soma [maelezo ya project hatua kwa hatua](docs/MAELEZO_YA_PROJECT_SW.md)
+kwa architecture, kazi za kila sehemu, mtiririko wa RAG, features na mipaka
+ya utekelezaji wa sasa. [SVG ya diagram](docs/presentation/UniLib_Conceptual_Diagram_SW.svg)
+inafaa kwa kukuza au kuweka kwenye presentation.
+
 UniLib connects screened TIE Biology, Chemistry and Physics excerpts to an
 on-device SQLite vector database, EmbeddingGemma and Gemma 3 1B.
 
@@ -121,3 +130,4 @@ For open source projects, say how it is licensed.
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
  bbd658cd0cb0369c680aadb8b537a46c5fb2495c
+# UNIVERSAL_LIBRARY
